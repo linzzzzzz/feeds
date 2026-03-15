@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI大咖讲座精选 (YouTube)</title>
+    <link>https://www.youtube.com</link>
+    <description>精选AI思想领袖的长篇访谈与演讲，由Claude筛选整理。</description>
+    <lastBuildDate>Sun, 15 Mar 2026 13:32:19 +0000</lastBuildDate>
+    <item>
+      <title>[Sam Altman] Sam Altman 在 TreeHacks 2026 上的深度访谈</title>
+      <link>https://www.youtube.com/watch?v=FjlymGBt-vY</link>
+      <guid isPermaLink="false">FjlymGBt-vY</guid>
+      <pubDate>Sun, 08 Mar 2026 21:11:44 +0000</pubDate>
+      <author>TreeHacks</author>
+      <description>TreeHacks · 44 分钟
+
+OpenAI CEO Sam Altman 在斯坦福 TreeHacks 黑客马拉松上接受专访，回顾 OpenAI 创立早期故事，畅谈 AGI 预计两年内到来、AI 对政治与社会的影响，以及如何在 AI 时代创业。</description>
+    </item>
+    <item>
+      <title>[Yann LeCun] Yann LeCun：LLM 是死路，世界模型才是未来</title>
+      <link>https://www.youtube.com/watch?v=XnnnAx5lrx8</link>
+      <guid isPermaLink="false">XnnnAx5lrx8</guid>
+      <pubDate>Wed, 11 Mar 2026 15:49:47 +0000</pubDate>
+      <author>This Is The World</author>
+      <description>This Is The World · 51 分钟
+
+Meta 首席 AI 科学家 Yann LeCun 接受独家专访，阐述为何大语言模型是「死胡同」，以及他创立 AMI Labs 押注世界模型的战略逻辑。</description>
+    </item>
+    <item>
+      <title>[Andrew Ng] Andrew Ng 谈 AI 素养与 K-12 教育</title>
+      <link>https://www.youtube.com/watch?v=EQiFIJP4wMM</link>
+      <guid isPermaLink="false">EQiFIJP4wMM</guid>
+      <pubDate>Wed, 11 Mar 2026 02:05:45 +0000</pubDate>
+      <author>EducAIted</author>
+      <description>EducAIted · 28 分钟
+
+DeepLearning.AI 创始人 Andrew Ng 在 EducAIted Voices 系列访谈中，探讨 AI 如何重塑基础教育，以及学生和教育者需要掌握的 AI 核心能力。</description>
+    </item>
+    <item>
+      <title>[Jensen Huang] Jensen Huang 与 NVIDIA 自动驾驶技术路演</title>
+      <link>https://www.youtube.com/watch?v=ZMpDiGoU4Wg</link>
+      <guid isPermaLink="false">ZMpDiGoU4Wg</guid>
+      <pubDate>Wed, 11 Mar 2026 13:01:33 +0000</pubDate>
+      <author>NVIDIA</author>
+      <description>NVIDIA · 23 分钟
+
+NVIDIA CEO Jensen Huang 与自动驾驶副总裁吴欣洲同乘穿越旧金山，探讨打造安全、舒适的自动驾驶体验所需的技术栈，并预告 GTC 2026 自动驾驶专题演讲。</description>
+    </item>
+    <item>
+      <title>[Topic: Meta AI Talks] OpenAI Codex 技术负责人谈职业成长与工程文化</title>
+      <link>https://www.youtube.com/watch?v=hN5ZFzWFhhg</link>
+      <guid isPermaLink="false">hN5ZFzWFhhg</guid>
+      <pubDate>Mon, 09 Mar 2026 12:01:12 +0000</pubDate>
+      <author>Ryan Peterman</author>
+      <description>Ryan Peterman · 80 分钟
+
+OpenAI Codex 开源仓库技术负责人 Michael Bolin 讲述从 Google、Meta 到 OpenAI 的职业历程，分享 Codex 的诞生故事以及研究驱动型与工程驱动型公司文化的核心差异。</description>
+    </item>
+    <item>
+      <title>[Topic: Google DeepMind Talks] AlphaGo 十年：改变世界的那局棋</title>
+      <link>https://www.youtube.com/watch?v=qoinGjj60Fo</link>
+      <guid isPermaLink="false">qoinGjj60Fo</guid>
+      <pubDate>Tue, 10 Mar 2026 17:28:31 +0000</pubDate>
+      <author>Google DeepMind</author>
+      <description>Google DeepMind · 54 分钟
+
+Google DeepMind 研究科学家 Thore Graepel 与 VP Pushmeet Kohli 回顾 2016 年 AlphaGo 大战李世石的历史时刻，探讨这场对决如何开启现代 AI 革命，并展望从强化学习到蛋白质折叠的技术传承。</description>
+    </item>
+    <item>
+      <title>[Channel: Dwarkesh Patel] Dylan Patel：AI 算力扩展的三大瓶颈深度解析</title>
+      <link>https://www.youtube.com/watch?v=mDG_Hx3BSUE</link>
+      <guid isPermaLink="false">mDG_Hx3BSUE</guid>
+      <pubDate>Fri, 13 Mar 2026 16:26:57 +0000</pubDate>
+      <author />
+      <description>None · 151 分钟
+
+SemiAnalysis 创始人 Dylan Patel 在 Dwarkesh Patel 播客上深入剖析制约 AI 算力扩展的三大核心瓶颈——逻辑芯片、存储和电力，并逐层分析 AI 实验室、超大规模云厂商、晶圆代工厂及设备制造商的经济逻辑。</description>
+    </item>
+    <item>
+      <title>[Channel: Machine Learning Street Talk] Robert Lange：当 AI 自己发现下一个 Transformer</title>
+      <link>https://www.youtube.com/watch?v=EInEmGaMRLc</link>
+      <guid isPermaLink="false">EInEmGaMRLc</guid>
+      <pubDate>Fri, 13 Mar 2026 21:00:10 +0000</pubDate>
+      <author />
+      <description>None · 78 分钟
+
+Sakana AI 创始研究员 Robert Lange 在 Machine Learning Street Talk 上介绍 Shinka Evolve 框架，该框架将大语言模型与进化算法结合，实现问题与解决方案的协同演化，探索真正的开放式科学发现。</description>
+    </item>
+    <item>
+      <title>[Channel: Y Combinator] Max Hodak：脑机接口的未来与视力恢复突破</title>
+      <link>https://www.youtube.com/watch?v=5gspRJVp9dI</link>
+      <guid isPermaLink="false">5gspRJVp9dI</guid>
+      <pubDate>Mon, 09 Mar 2026 14:00:08 +0000</pubDate>
+      <author />
+      <description>None · 53 分钟
+
+Neuralink 联合创始人、Science 公司创始人 Max Hodak 在 YC 访谈中介绍其视网膜芯片如何帮助盲人重见光明，并探讨脑机接口如何增强人类智能，以及未来十年该技术的发展前景。</description>
+    </item>
+  </channel>
+</rss>
