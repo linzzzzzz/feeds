@@ -4,7 +4,7 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Mon, 16 Mar 2026 10:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 16:01:12 +0000</lastBuildDate>
     <item>
       <title>[Sam Altman] LIVE: OpenAI CEO Sam Altman Speaks at BlackRock Infrastructure Summit | DRM News | AI1F</title>
       <link>https://www.youtube.com/watch?v=8EdjHwEO8QA</link>
@@ -80,8 +80,8 @@ Ten years after AlphaGo's landmark victory over Go world champion Lee Sedol in S
       <link>https://www.youtube.com/watch?v=mDG_Hx3BSUE</link>
       <guid isPermaLink="false">mDG_Hx3BSUE</guid>
       <pubDate>Fri, 13 Mar 2026 16:26:57 +0000</pubDate>
-      <author />
-      <description>None · 151 min
+      <author>Dwarkesh Patel</author>
+      <description>Dwarkesh Patel · 151 min
 
 Dylan Patel, founder of SemiAnalysis, joins Dwarkesh Patel for a deep dive into the three major bottlenecks constraining AI compute scaling: logic chips, memory, and power. The conversation examines the economics of AI labs, hyperscalers, semiconductor foundries, and fab equipment manufacturers, walking through every level of the AI compute stack to understand where the constraints lie and what it will take to overcome them.</description>
     </item>
@@ -90,8 +90,98 @@ Dylan Patel, founder of SemiAnalysis, joins Dwarkesh Patel for a deep dive into 
       <link>https://www.youtube.com/watch?v=EInEmGaMRLc</link>
       <guid isPermaLink="false">EInEmGaMRLc</guid>
       <pubDate>Fri, 13 Mar 2026 21:00:10 +0000</pubDate>
-      <author />
-      <description>None · 78 min
+      <author>Machine Learning Street Talk</author>
+      <description>Machine Learning Street Talk · 78 min
+
+Robert Lange, founding researcher at Sakana AI, joins Tim Scarfe on Machine Learning Street Talk to discuss Shinka Evolve — a framework combining large language models with evolutionary algorithms for open-ended program search. The core argument: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. The conversation explores what it would take for AI to autonomously discover the next foundational architecture like the Transformer.</description>
+    </item>
+    <item>
+      <title>[Sam Altman] LIVE: OpenAI CEO Sam Altman Speaks at BlackRock Infrastructure Summit | DRM News | AI1F</title>
+      <link>https://www.youtube.com/watch?v=8EdjHwEO8QA</link>
+      <guid isPermaLink="false">8EdjHwEO8QA</guid>
+      <pubDate>Thu, 12 Mar 2026 06:51:31 +0000</pubDate>
+      <author>DRM News</author>
+      <description>DRM News · 39 min
+
+OpenAI CEO Sam Altman speaks live at the BlackRock U.S. Infrastructure Summit in Washington, D.C. Leaders from government, technology, and finance gathered to discuss investment, infrastructure development, and the role of emerging technologies in economic growth. The recording captures Altman's live remarks on rapid AI adoption in business and society, the scaling of OpenAI's infrastructure, and his vision of intelligence as a widely accessible utility.</description>
+    </item>
+    <item>
+      <title>[Yann LeCun] "LLMs Are A Dead End": An Exclusive Interview With The Genius Father of AI | Yann LeCun</title>
+      <link>https://www.youtube.com/watch?v=XnnnAx5lrx8</link>
+      <guid isPermaLink="false">XnnnAx5lrx8</guid>
+      <pubDate>Wed, 11 Mar 2026 15:49:47 +0000</pubDate>
+      <author>This Is The World</author>
+      <description>This Is The World · 51 min
+
+An exclusive interview with Yann LeCun, chief AI scientist at Meta and Turing Award laureate. Recorded in the wake of his announcement of AMI Labs (Advanced Machine Intelligence Labs), a new $1 billion venture focused on world models, LeCun discusses why he believes large language models are a dead end for achieving true intelligence, and what he sees as the more promising path forward in AI research.</description>
+    </item>
+    <item>
+      <title>[Geoffrey Hinton] The Man Who Built AI Says We Should Be Worried | Geoffrey Hinton (The Diary Of A CEO)</title>
+      <link>https://www.youtube.com/watch?v=mniyJXyK28c</link>
+      <guid isPermaLink="false">mniyJXyK28c</guid>
+      <pubDate>Sat, 14 Mar 2026 16:01:07 +0000</pubDate>
+      <author>The Lumen Project</author>
+      <description>The Lumen Project · 27 min
+
+Geoffrey Hinton, widely known as the「Godfather of AI,」speaks about the risks of the artificial intelligence technology he spent over 50 years helping to develop. Originally from The Diary of a CEO, Hinton discusses autonomous weapons, AI-driven cyber attacks, and why he believes humanity should take the existential risks of AI seriously — explaining how the technology that transformed the world could also become one of its greatest threats.</description>
+    </item>
+    <item>
+      <title>[Andrew Ng] EducAIted Voices: Dr. Andrew Ng, Exploring Computer Science &amp; K12 Education</title>
+      <link>https://www.youtube.com/watch?v=EQiFIJP4wMM</link>
+      <guid isPermaLink="false">EQiFIJP4wMM</guid>
+      <pubDate>Wed, 11 Mar 2026 02:05:45 +0000</pubDate>
+      <author>EducAIted</author>
+      <description>EducAIted · 28 min
+
+Dr. Andrew Ng, founder of DeepLearning.AI and a leading AI educator, joins the premiere episode of EducAIted Voices — an interview series for K-12 educators navigating the AI era. Hosted by Emma Ludwick and Dr. Bailey Ubellacker, the conversation covers computer science education, building AI literacy among students, and practical guidance for educators adapting to rapidly shifting AI tools in and out of the classroom.</description>
+    </item>
+    <item>
+      <title>[Jensen Huang] On the Road With DRIVE AV</title>
+      <link>https://www.youtube.com/watch?v=ZMpDiGoU4Wg</link>
+      <guid isPermaLink="false">ZMpDiGoU4Wg</guid>
+      <pubDate>Wed, 11 Mar 2026 13:01:33 +0000</pubDate>
+      <author>NVIDIA</author>
+      <description>NVIDIA · 23 min
+
+NVIDIA founder and CEO Jensen Huang takes a drive through San Francisco with NVIDIA VP of Automotive Xinzhou Wu, discussing what it takes to deliver autonomous driving that feels comfortable, confident, and safe. The conversation covers NVIDIA's DRIVE AV platform, the technical requirements for scalable Level 4 autonomy, and the road to viable robotaxis.</description>
+    </item>
+    <item>
+      <title>[Jensen Huang] Jensen Huang and the Reinvention of Computing</title>
+      <link>https://www.youtube.com/watch?v=FSXiiP7pO-U</link>
+      <guid isPermaLink="false">FSXiiP7pO-U</guid>
+      <pubDate>Sat, 14 Mar 2026 06:50:50 +0000</pubDate>
+      <author>APPLIED ENGLISH LABS</author>
+      <description>APPLIED ENGLISH LABS · 51 min
+
+NVIDIA CEO Jensen Huang discusses the evolution of accelerated computing and the strategic decisions that positioned NVIDIA at the center of the AI revolution. He traces how early GPU innovations for video games provided the parallel processing foundation for modern deep learning breakthroughs, and looks ahead to physical AI — digital twins, world models, humanoid robotics, and factory automation — as the next wave of computing reinvention.</description>
+    </item>
+    <item>
+      <title>[Topic: Google DeepMind Talks] 10 years of AlphaGo: The turning point for AI | Thore Graepel &amp; Pushmeet Kohli</title>
+      <link>https://www.youtube.com/watch?v=qoinGjj60Fo</link>
+      <guid isPermaLink="false">qoinGjj60Fo</guid>
+      <pubDate>Tue, 10 Mar 2026 17:28:31 +0000</pubDate>
+      <author>Google DeepMind</author>
+      <description>Google DeepMind · 54 min
+
+Ten years after AlphaGo's landmark victory over Go world champion Lee Sedol in Seoul (March 2016), DeepMind researchers Thore Graepel and Pushmeet Kohli reflect on how that moment changed AI history. The conversation traces AlphaGo's development using reinforcement learning, the move 37 that surprised the world, its broader impact on the field, and what the decade since has meant for AI research and society.</description>
+    </item>
+    <item>
+      <title>[Channel: Dwarkesh Patel] Dylan Patel — The single biggest bottleneck to scaling AI compute</title>
+      <link>https://www.youtube.com/watch?v=mDG_Hx3BSUE</link>
+      <guid isPermaLink="false">mDG_Hx3BSUE</guid>
+      <pubDate>Fri, 13 Mar 2026 16:26:57 +0000</pubDate>
+      <author>Dwarkesh Patel</author>
+      <description>Dwarkesh Patel · 151 min
+
+Dylan Patel, founder of SemiAnalysis, joins Dwarkesh Patel for a deep dive into the three major bottlenecks constraining AI compute scaling: logic chips, memory, and power. The conversation examines the economics of AI labs, hyperscalers, semiconductor foundries, and fab equipment manufacturers, walking through every level of the AI compute stack to understand where the constraints lie and what it will take to overcome them.</description>
+    </item>
+    <item>
+      <title>[Channel: Machine Learning Street Talk] When AI Discovers the Next Transformer — Robert Lange</title>
+      <link>https://www.youtube.com/watch?v=EInEmGaMRLc</link>
+      <guid isPermaLink="false">EInEmGaMRLc</guid>
+      <pubDate>Fri, 13 Mar 2026 21:00:10 +0000</pubDate>
+      <author>Machine Learning Street Talk</author>
+      <description>Machine Learning Street Talk · 78 min
 
 Robert Lange, founding researcher at Sakana AI, joins Tim Scarfe on Machine Learning Street Talk to discuss Shinka Evolve — a framework combining large language models with evolutionary algorithms for open-ended program search. The core argument: systems like AlphaEvolve can optimize solutions to fixed problems, but real scientific progress requires co-evolving the problems themselves. The conversation explores what it would take for AI to autonomously discover the next foundational architecture like the Transformer.</description>
     </item>
