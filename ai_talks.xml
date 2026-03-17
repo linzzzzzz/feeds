@@ -4,7 +4,38 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Tue, 17 Mar 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 13:29:31 +0000</lastBuildDate>
+    <item>
+      <title>[Topic: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
+      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
+      <guid isPermaLink="false">VAzryGwnJW8</guid>
+      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
+      <author>OpenAI</author>
+      <description>OpenAI · 31 min
+
+OpenAI's Head of Health Dr. Nate Gross and Health AI Research lead Karan Singhal discuss how AI can address the biggest challenges facing healthcare systems. They cover how OpenAI trains models for sensitive health questions in collaboration with physicians, and how that work is enabling new tools for patients, clinicians, and healthcare systems.
+
+Chapters:
+00:00:38 – Origins of Nate and Karan's interest in AI and healthcare
+00:05:01 – Strategy for building AI tools for clinicians
+00:06:57 – How AI models are trained for health use cases
+00:10:15 – How OpenAI is able to score well on health evals
+00:14:21 – Key challenges deploying AI in healthcare
+00:21:05 – Collaboration with hospitals and healthcare systems
+00:23:05 – Practical everyday uses of AI health assistants
+00:26:43 – Biggest wow moment during development
+00:28:46 – Feedback from clinicians and early users</description>
+    </item>
+    <item>
+      <title>[Topic: Google DeepMind Talks] 10 years of AlphaGo: The turning point for AI | Thore Graepel &amp; Pushmeet Kohli</title>
+      <link>https://www.youtube.com/watch?v=qoinGjj60Fo</link>
+      <guid isPermaLink="false">qoinGjj60Fo</guid>
+      <pubDate>Tue, 10 Mar 2026 17:28:31 +0000</pubDate>
+      <author>Google DeepMind</author>
+      <description>Google DeepMind · 54 min
+
+A decade after AlphaGo's landmark victory over 18-time Go world champion Lee Sedol in Seoul (March 2016), Google DeepMind looks back at the match that sparked the modern AI revolution. Host Hannah Fry is joined by Pushmeet Kohli (VP, Science) and Thore Graepel (AlphaGo team &amp; Distinguished Research Scientist) to discuss the legacy of AlphaGo — from reinforcement learning breakthroughs to downstream scientific impact including protein folding.</description>
+    </item>
     <item>
       <title>[Sam Altman] LIVE: OpenAI CEO Sam Altman Speaks at BlackRock Infrastructure Summit | DRM News | AI1F</title>
       <link>https://www.youtube.com/watch?v=8EdjHwEO8QA</link>

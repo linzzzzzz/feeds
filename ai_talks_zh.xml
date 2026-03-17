@@ -4,7 +4,38 @@
     <title>AI大咖讲座精选 (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>精选AI思想领袖的长篇访谈与演讲，由Claude筛选整理。</description>
-    <lastBuildDate>Tue, 17 Mar 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 13:29:31 +0000</lastBuildDate>
+    <item>
+      <title>[Topic: OpenAI Talks] OpenAI播客：用AI改善医疗——健康负责人与研究主管对谈</title>
+      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
+      <guid isPermaLink="false">VAzryGwnJW8</guid>
+      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
+      <author>OpenAI</author>
+      <description>OpenAI · 31 分钟
+
+OpenAI健康负责人Nate Gross博士与健康AI研究负责人Karan Singhal探讨AI如何应对医疗系统面临的重大挑战。他们介绍了OpenAI如何与医生合作训练模型处理敏感健康问题，以及这一基础如何催生面向患者、临床医生和医疗系统的新一代工具。
+
+章节：
+00:00:38 – Nate与Karan对AI与医疗领域兴趣的起源
+00:05:01 – 为临床医生构建AI工具的策略
+00:06:57 – AI模型如何针对医疗场景进行训练
+00:10:15 – OpenAI在医疗评测中取得高分的方法
+00:14:21 – 在医疗领域部署AI的主要挑战
+00:21:05 – 与医院和医疗系统的合作
+00:23:05 – AI健康助手的实际日常应用
+00:26:43 – 开发过程中最令人印象深刻的时刻
+00:28:46 – 来自临床医生和早期用户的反馈</description>
+    </item>
+    <item>
+      <title>[Topic: Google DeepMind Talks] AlphaGo十年：改变AI历史的那一局棋</title>
+      <link>https://www.youtube.com/watch?v=qoinGjj60Fo</link>
+      <guid isPermaLink="false">qoinGjj60Fo</guid>
+      <pubDate>Tue, 10 Mar 2026 17:28:31 +0000</pubDate>
+      <author>Google DeepMind</author>
+      <description>Google DeepMind · 54 分钟
+
+2016年3月，AlphaGo在首尔击败围棋世界冠军李世石（共18次夺冠），由此点燃了现代AI革命。十年后，主持人Hannah Fry与Google DeepMind副总裁（科学）Pushmeet Kohli及AlphaGo团队杰出研究科学家Thore Graepel共同回顾AlphaGo的历史遗产——从强化学习的突破，到蛋白质折叠等科学重大挑战的解决之路。</description>
+    </item>
     <item>
       <title>[Sam Altman] OpenAI CEO Sam Altman在贝莱德基础设施峰会上的主旨演讲</title>
       <link>https://www.youtube.com/watch?v=8EdjHwEO8QA</link>
