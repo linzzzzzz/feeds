@@ -4,68 +4,7 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Tue, 17 Mar 2026 13:29:31 +0000</lastBuildDate>
-    <item>
-      <title>[Topic: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
-      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
-      <guid isPermaLink="false">VAzryGwnJW8</guid>
-      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
-      <author>OpenAI</author>
-      <description>OpenAI · 31 min
-
-OpenAI's Head of Health Dr. Nate Gross and Health AI Research lead Karan Singhal discuss how AI can address the biggest challenges facing healthcare systems. They cover how OpenAI trains models for sensitive health questions in collaboration with physicians, and how that work is enabling new tools for patients, clinicians, and healthcare systems.
-
-Chapters:
-00:00:38 – Origins of Nate and Karan's interest in AI and healthcare
-00:05:01 – Strategy for building AI tools for clinicians
-00:06:57 – How AI models are trained for health use cases
-00:10:15 – How OpenAI is able to score well on health evals
-00:14:21 – Key challenges deploying AI in healthcare
-00:21:05 – Collaboration with hospitals and healthcare systems
-00:23:05 – Practical everyday uses of AI health assistants
-00:26:43 – Biggest wow moment during development
-00:28:46 – Feedback from clinicians and early users</description>
-    </item>
-    <item>
-      <title>[Topic: Google DeepMind Talks] 10 years of AlphaGo: The turning point for AI | Thore Graepel &amp; Pushmeet Kohli</title>
-      <link>https://www.youtube.com/watch?v=qoinGjj60Fo</link>
-      <guid isPermaLink="false">qoinGjj60Fo</guid>
-      <pubDate>Tue, 10 Mar 2026 17:28:31 +0000</pubDate>
-      <author>Google DeepMind</author>
-      <description>Google DeepMind · 54 min
-
-A decade after AlphaGo's landmark victory over 18-time Go world champion Lee Sedol in Seoul (March 2016), Google DeepMind looks back at the match that sparked the modern AI revolution. Host Hannah Fry is joined by Pushmeet Kohli (VP, Science) and Thore Graepel (AlphaGo team &amp; Distinguished Research Scientist) to discuss the legacy of AlphaGo — from reinforcement learning breakthroughs to downstream scientific impact including protein folding.</description>
-    </item>
-    <item>
-      <title>[Sam Altman] LIVE: OpenAI CEO Sam Altman Speaks at BlackRock Infrastructure Summit | DRM News | AI1F</title>
-      <link>https://www.youtube.com/watch?v=8EdjHwEO8QA</link>
-      <guid isPermaLink="false">8EdjHwEO8QA</guid>
-      <pubDate>Thu, 12 Mar 2026 06:51:31 +0000</pubDate>
-      <author>DRM News</author>
-      <description>DRM News · 39 min
-
-OpenAI CEO Sam Altman spoke at the BlackRock U.S. Infrastructure Summit in Washington, D.C. He discussed AI's rapid adoption in business, the scaling of AI infrastructure, the pursuit of artificial general intelligence, and OpenAI's $110 billion funding round. Leaders from government, technology, and finance gathered to discuss investment, infrastructure development, and the role of emerging technologies in economic growth.</description>
-    </item>
-    <item>
-      <title>[Yann LeCun] "LLMs Are A Dead End": An Exclusive Interview With The Genius Father of AI | Yann LeCun</title>
-      <link>https://www.youtube.com/watch?v=XnnnAx5lrx8</link>
-      <guid isPermaLink="false">XnnnAx5lrx8</guid>
-      <pubDate>Wed, 11 Mar 2026 15:49:47 +0000</pubDate>
-      <author>This Is The World</author>
-      <description>This Is The World · 51 min
-
-An exclusive interview with Yann LeCun, Turing Award-winning AI researcher and Chief AI Scientist at Meta, hosted by Matt Kawecki on This Is The World podcast. LeCun discusses why he believes large language models represent a dead end for achieving human-level AI, and outlines his vision for an alternative path — centered on world models and self-supervised learning — toward more general artificial intelligence.</description>
-    </item>
-    <item>
-      <title>[Yann LeCun] "Perspectives on IA" : conf. de Yann LeCun, WinterWeek – Graduate School – Univ. Gustave Eiffel</title>
-      <link>https://www.youtube.com/watch?v=nqDHPpKha_A</link>
-      <guid isPermaLink="false">nqDHPpKha_A</guid>
-      <pubDate>Fri, 13 Mar 2026 08:23:20 +0000</pubDate>
-      <author>Université Gustave Eiffel</author>
-      <description>Université Gustave Eiffel · 126 min
-
-Yann LeCun, 2018 Turing Award laureate and founder of AMI Labs, delivered a lecture titled 「Perspectives on AI」 at the WinterWeek for Research Training hosted by the Graduate School of Université Gustave Eiffel. The talk, originally given on February 11, 2026, covers his current perspectives on the state and future of artificial intelligence, presented in French.</description>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 10:32:46 +0000</lastBuildDate>
     <item>
       <title>[Geoffrey Hinton] The AI Scenario Nobody Wants To Talk About | Geoffrey Hinton (The Diary Of A CEO)</title>
       <link>https://www.youtube.com/watch?v=mniyJXyK28c</link>
@@ -74,17 +13,17 @@ Yann LeCun, 2018 Turing Award laureate and founder of AMI Labs, delivered a lect
       <author>The Lumen Project</author>
       <description>The Lumen Project · 27 min
 
-A clip from The Diary of a CEO featuring Geoffrey Hinton, known as the 「Godfather of AI.」 After more than 50 years helping build the neural network foundations of today's AI systems, Hinton explains why he now sounds the alarm about the technology's risks — including autonomous weapons, AI-driven cyber attacks, and other scenarios he believes humanity must urgently address.</description>
+Geoffrey Hinton, the Godfather of AI, explains why the technology he spent his life developing could become one of humanity's greatest risks. From autonomous weapons to AI-driven cyber attacks, and the possibility of machines surpassing human intelligence — a psychological and technological turning point.</description>
     </item>
     <item>
-      <title>[Andrew Ng] EducAIted Voices: Dr. Andrew Ng, Exploring Computer Science &amp; K12 Education</title>
-      <link>https://www.youtube.com/watch?v=EQiFIJP4wMM</link>
-      <guid isPermaLink="false">EQiFIJP4wMM</guid>
-      <pubDate>Wed, 11 Mar 2026 02:05:45 +0000</pubDate>
-      <author>EducAIted</author>
-      <description>EducAIted · 28 min
+      <title>[Channel: Zhang Xiaojun Podcast] A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42</title>
+      <link>https://www.youtube.com/watch?v=rIwgZWzUKm8</link>
+      <guid isPermaLink="false">rIwgZWzUKm8</guid>
+      <pubDate>Mon, 16 Mar 2026 03:30:41 +0000</pubDate>
+      <author>Zhang Xiaojun Podcast</author>
+      <description>Zhang Xiaojun Podcast · 405 min
 
-The premiere episode of EducAIted Voices features Dr. Andrew Ng — founder of DeepLearning.AI and Coursera co-founder — in conversation with hosts Emma Ludwick and Dr. Bailey Ubellacker. The discussion focuses on AI in K-12 education: how computer science education is evolving, the opportunities AI presents for teachers and students, and how educators can navigate this rapidly changing landscape.</description>
+Saining Xie in a 7-hour marathon interview. Born 1990, NYU professor, former Google DeepMind and Meta FAIR researcher, co-author of Diffusion Transformers (DiT). With Yann LeCun he co-founded AMI Labs (Advanced Machine Intelligence Labs) — 25 people, $1.03B seed at $3.5B pre-money. Xie calls Silicon Valley 'completely hypnotized' by LLMs, and argues LLMs are a rebellion against the Bitter Lesson, language models' Scaling Laws contain 'water,' and language may be 'poison' for vision. Covers his career, friendships with Kaiming He and拒绝了Ilya twice, Yann LeCun and Fei-Fei Li, world models, and the philosophy of research. Timestamps cover: The Normal One, World Won't Let Me Do Vision, Academic Nomadism, Friendship with Kaiming He, Turning Down Ilya Twice, Memories of Yann LeCun and Fei-Fei Li, Research Taste and the Diamond Sutra, What is a World Model, From Downloading the Internet to Downloading Humanity, Genesis of AMI Labs, 'Silicon Valley is Hypnotized', The Arrogance of Mankind, '42'.</description>
     </item>
     <item>
       <title>[Jensen Huang] NVIDIA CEO Jensen Huang GTC 2026 Full Keynote</title>
@@ -94,27 +33,27 @@ The premiere episode of EducAIted Voices features Dr. Andrew Ng — founder of D
       <author>Yahoo Finance</author>
       <description>Yahoo Finance · 140 min
 
-NVIDIA CEO Jensen Huang delivered his annual keynote at GTC 2026 in San Jose, California. The speech covered the latest GPU and AI computing announcements, NVIDIA's acqui-hire of AI inference chip designer Groq, partnerships with Nebius and other AI cloud providers, and Huang's broader vision for the future of AI infrastructure and physical AI.</description>
+NVIDIA CEO Jensen Huang's full GTC 2026 keynote. Covers Blackwell/Rubin revenue outlook, the Groq acqui-hire agreement, and AI cloud strategy. Also notes Nebius deal with Meta for up to $27B capacity starting 2027.</description>
     </item>
     <item>
-      <title>[Jensen Huang] Jensen Huang and the Reinvention of Computing</title>
-      <link>https://www.youtube.com/watch?v=FSXiiP7pO-U</link>
-      <guid isPermaLink="false">FSXiiP7pO-U</guid>
-      <pubDate>Sat, 14 Mar 2026 06:50:50 +0000</pubDate>
-      <author>APPLIED ENGLISH LABS</author>
-      <description>APPLIED ENGLISH LABS · 51 min
+      <title>[Topic: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
+      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
+      <guid isPermaLink="false">VAzryGwnJW8</guid>
+      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
+      <author>OpenAI</author>
+      <description>OpenAI · 31 min
 
-In this interview, NVIDIA CEO Jensen Huang traces the evolution of accelerated computing — from early GPU innovations in video games to the deep learning breakthroughs they enabled. He discusses NVIDIA's strategic bets over the decades, the rise of physical AI using digital twins and world models, and how the company positioned itself at the center of the AI revolution.</description>
+OpenAI Head of Health Dr. Nate Gross and Health AI Research lead Karan Singhal discuss how AI can help address the biggest challenges facing healthcare systems worldwide. Covers how OpenAI is training models for sensitive health questions in collaboration with physicians, and how that foundation is unlocking a new generation of tools for patients, clinicians, and healthcare systems. Chapters include: origins of their interest in AI and healthcare, strategy for building AI tools for clinicians, how AI models are trained for health use cases, scoring well on health evals, key challenges deploying AI in healthcare, collaboration with hospitals, practical everyday uses, and feedback from clinicians.</description>
     </item>
     <item>
-      <title>[Jensen Huang] 黃仁勳最新訪談：AI 自駕已不是科幻，真正革命才剛開始｜Jensen Huang’s Interview: AI Self-Driving Is No Longer Science Fiction</title>
-      <link>https://www.youtube.com/watch?v=RAwKTSELeZI</link>
-      <guid isPermaLink="false">RAwKTSELeZI</guid>
-      <pubDate>Fri, 13 Mar 2026 11:30:34 +0000</pubDate>
-      <author>New SciTech 新科技</author>
-      <description>New SciTech 新科技 · 22 min
+      <title>[Topic: Meta AI Talks] Meta NeuroScientist SHOCKED Me: Scale Alone Won’t Create Consciousness!</title>
+      <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
+      <guid isPermaLink="false">wkHW2eV7mAs</guid>
+      <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
+      <author>Dr Brian Keating</author>
+      <description>Dr Brian Keating · 51 min
 
-Jensen Huang discusses AI-powered autonomous driving, end-to-end models, safety stacks, and the future of robotaxis, framing autonomous driving as the preview of a coming transportation revolution rather than just a technology demo.</description>
+Dr. David Sussillo of Meta Reality Labs explains why scaling transformers alone won't produce conscious AI — and why studying the brain may be the only way forward. Former Google Brain researcher, now at Meta Reality Labs, leads research on RNNs vs transformers debate. Discusses the FORCE algorithm for training RNNs, Meta's EMG wristband and biological signals, Rich Sutton's Bitter Lesson and whether we're locked into a GPU-transformer paradigm, why studying the brain may be the only way out of AI's current limitations. Author of 'Emergence', a memoir about his path from foster care to the frontier of neuroscience and AI research.</description>
     </item>
     <item>
       <title>[Channel: Dwarkesh Patel] Dylan Patel — The single biggest bottleneck to scaling AI compute</title>
@@ -124,19 +63,7 @@ Jensen Huang discusses AI-powered autonomous driving, end-to-end models, safety 
       <author>Dwarkesh Patel</author>
       <description>Dwarkesh Patel · 151 min
 
-Dylan Patel, founder of SemiAnalysis, joins Dwarkesh Patel for a deep dive into the three major bottlenecks to scaling AI compute: logic (chips), memory, and power. The conversation covers the economics of AI labs, hyperscalers, foundries, and fab equipment manufacturers, including TSMC allocation dynamics, ASML as a long-term constraint by 2030, the coming memory crunch, power scaling in the U.S., and the geopolitics of Taiwan and China in the semiconductor race.
-
-Timestamps:
-00:00 – Why an H100 is worth more today than 3 years ago
-00:24 – Nvidia secured TSMC allocation early; Google is getting squeezed
-00:34 – ASML will be the #1 constraint for AI compute scaling by 2030
-00:55 – Can't we just use TSMC's older fabs?
-01:05 – When will China outscale the West in semis?
-01:16 – The enormous incoming memory crunch
-01:42 – Scaling power in the US will not be a problem
-02:14 – Why aren't more hedge funds making the AGI trade?
-02:18 – Will TSMC kick Apple out from N2?
-02:24 – Robots and Taiwan risk</description>
+Dylan Patel, founder of SemiAnalysis, provides a deep dive into the 3 big bottlenecks to scaling AI compute: logic, memory, and power. Walks through the economics of labs, hyperscalers, foundries, and fab equipment manufacturers. Key topics: why an H100 is worth more today than 3 years ago, Nvidia secured TSMC allocation early, Google getting squeezed, ASML as the #1 constraint for AI compute scaling by 2030, the enormous incoming memory crunch, power scaling in the US, China semis competition, TSMC capacity, and robots with Taiwan risk.</description>
     </item>
     <item>
       <title>[Channel: Machine Learning Street Talk] When AI Discovers the Next Transformer — Robert Lange</title>
@@ -146,40 +73,17 @@ Timestamps:
       <author>Machine Learning Street Talk</author>
       <description>Machine Learning Street Talk · 78 min
 
-Robert Lange, founding researcher at Sakana AI, joins Tim Scarfe on Machine Learning Street Talk to discuss Shinka Evolve — a framework combining LLMs with evolutionary algorithms for open-ended program search. The conversation explores why systems like AlphaEvolve get stuck (they need humans to define the right problem), how Shinka tries to co-evolve problems and solutions automatically using MAP-Elites and UCB bandits, and concrete results including state-of-the-art circle packing and second place in AtCoder competitive programming. They also debate whether automated research pipelines can produce real science, and where AI-assisted scientific discovery is headed in the next 5–20 years.
-
-Timestamps:
-00:00 – Introduction
-00:04 – AlphaEvolve's blind spot: co-evolving problems with solutions
-00:09 – Unknown unknowns, POET, and auto-curricula for AI science
-00:14 – MAP-Elites and quality-diversity: Shinka's evolutionary architecture
-00:28 – UCB bandits, mutations, and the vibe research vision
-00:40 – Scaling Shinka: meta-evolution and the three-axis model
-00:47 – Applications, ARC-AGI and the future of work
-00:57 – The AI Scientist and the human co-pilot
-01:06 – AI Scientist v2, slop critique and future of scientific publishing</description>
+Robert Lange, founding researcher at Sakana AI, discusses Shinka Evolve — a framework combining LLMs with evolutionary algorithms for open-ended program search. Core claim: systems like AlphaEvolve need humans to hand them the right problem; Shinka tries to invent new problems automatically. Topics: MAP-Elites quality-diversity search, UCB bandit for adaptive model selection between GPT-5/Sonnet 4.5/Gemini mid-run, evolved load-balancing loss functions for MoE models, agent scaffolds for AIME math benchmarks, and whether automated research pipelines can produce real science or just workshop-level slop.</description>
     </item>
     <item>
-      <title>[Channel: Y Combinator] India’s Fastest Growing AI Startup</title>
-      <link>https://www.youtube.com/watch?v=8SVocWnDHwE</link>
-      <guid isPermaLink="false">8SVocWnDHwE</guid>
-      <pubDate>Mon, 16 Mar 2026 13:00:14 +0000</pubDate>
-      <author>Y Combinator</author>
-      <description>Y Combinator · 40 min
+      <title>[Channel: Zhang Xiaojun Podcast] 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42</title>
+      <link>https://www.youtube.com/watch?v=iiBY0fqpThI</link>
+      <guid isPermaLink="false">iiBY0fqpThI</guid>
+      <pubDate>Mon, 16 Mar 2026 08:03:12 +0000</pubDate>
+      <author>Zhang Xiaojun Podcast</author>
+      <description>Zhang Xiaojun Podcast · 406 min
 
-Y Combinator's Lightcone podcast features Mukund and Madhav Jha, co-founders of Emergent — an AI platform that lets anyone build and ship production-ready software without coding. In eight months, users created over 7 million apps on the platform, with the number doubling in the last 45 days. The conversation covers how they built one of the most capable AI coding agents, why they focused on non-technical users, and what it's like building a global AI product from India.
-
-Chapters:
-00:00 – What Is Emergent?
-01:18 – Founder Backstory
-02:09 – From AI Testing to General Coding Agents
-04:18 – The Pivot to Non-Technical Users
-05:22 – Why Second Movers Can Win in AI
-09:04 – Building for Production, Not Just Prototypes
-18:21 – Live Demo: Building Apps with Emergent
-24:40 – How Emergent Hires and Runs a Lean Team
-29:04 – Is SaaS Dead? The Rise of Personalized Software
-34:04 – The Future: Niche Apps, Solo Builders and AI Agency</description>
+Saining Xie discusses world models, exiting Silicon Valley, AMI Labs co-founded with Yann LeCun, declining Ilya twice, and reflections on Fei-Fei Li and Yann LeCun. Xie says 'Silicon Valley is very LLM-pilled — completely hypnotized.' Topics: Research Taste and the Diamond Sutra, What is a World Model, From Downloading the Internet to Downloading Humanity, Genesis of AMI Labs with Yann LeCun, 'Silicon Valley is Hypnotized', The Arrogance of Mankind, and '42'.</description>
     </item>
   </channel>
 </rss>
