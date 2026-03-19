@@ -4,86 +4,156 @@
     <title>AI大咖讲座精选 (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>精选AI思想领袖的长篇访谈与演讲，由Claude筛选整理。</description>
-    <lastBuildDate>Thu, 19 Mar 2026 10:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:21:57 +0000</lastBuildDate>
     <item>
-      <title>[Geoffrey Hinton] 「没有人在谈论的AI场景」—— Geoffrey Hinton</title>
+      <title>[Yann LeCun] 杨立昆演讲：人工智能的视角</title>
+      <link>https://www.youtube.com/watch?v=nqDHPpKha_A</link>
+      <guid isPermaLink="false">nqDHPpKha_A</guid>
+      <pubDate>Fri, 13 Mar 2026 08:23:20 +0000</pubDate>
+      <author>Université Gustave Eiffel</author>
+      <description>Université Gustave Eiffel · 126 分钟
+
+2018年图灵奖得主杨立昆在法国Gustave Eiffel大学发表演讲，阐述其对人工智能发展路径的思考。他提出「预测性AI」概念，主张发展「世界模型」作为下一代AI的核心方向，并介绍了其参与创办的初创公司AMI Labs的规划。演讲涵盖深度学习的基本原理、当前大语言模型的局限性，以及对人工智能未来发展的判断。</description>
+    </item>
+    <item>
+      <title>[Geoffrey Hinton] AI教父的警告：没有人想谈论的AI场景</title>
       <link>https://www.youtube.com/watch?v=mniyJXyK28c</link>
       <guid isPermaLink="false">mniyJXyK28c</guid>
       <pubDate>Sat, 14 Mar 2026 16:01:07 +0000</pubDate>
       <author>The Lumen Project</author>
       <description>The Lumen Project · 27 分钟
 
-AI教父Geoffrey Hinton解释了他倾尽一生开发的技术，为何可能成为人类最大的风险之一。从自主武器到AI驱动的网络攻击，再到机器超越人类智能的可能性——这不仅是技术转折点，更是心理转折点。</description>
+「AI教父」Geoffrey Hinton接受The Diary of a CEO采访，罕见地以第一人称讲述他为何对这项毕生从事的技术发出警告。他深度剖析了AI可能带来的风险：自主武器降低了战争门槛，AI可被用于设计生物病毒，以及超级智能机器可能最终超越人类。他也坦承自己已无法停止这项研究，因为科学进展无法被阻止。</description>
     </item>
     <item>
-      <title>[Channel: Zhang Xiaojun Podcast] 谢赛宁7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42</title>
-      <link>https://www.youtube.com/watch?v=rIwgZWzUKm8</link>
-      <guid isPermaLink="false">rIwgZWzUKm8</guid>
-      <pubDate>Mon, 16 Mar 2026 03:30:41 +0000</pubDate>
-      <author>Zhang Xiaojun Podcast</author>
-      <description>Zhang Xiaojun Podcast · 405 分钟
+      <title>[Jensen Huang] 黄仁勋与计算的重新发明</title>
+      <link>https://www.youtube.com/watch?v=FSXiiP7pO-U</link>
+      <guid isPermaLink="false">FSXiiP7pO-U</guid>
+      <pubDate>Sat, 14 Mar 2026 06:50:50 +0000</pubDate>
+      <author>APPLIED ENGLISH LABS</author>
+      <description>APPLIED ENGLISH LABS · 51 分钟
 
- NYU教授、前Google DeepMind及Meta FAIR研究员、Diffusion Transformers（DiT）共同作者谢赛宁的首次深度访谈。他与杨立昆共同创立了AMI Labs（25人团队，10.3亿美元种子轮，估值35亿美元）。他直言硅谷「完全被LLM催眠了」，认为LLM是「反Bitter Lesson」的，语言模型的Scaling Law里有「水分」，语言可能是视觉的「毒药」。涵盖学术生涯、何恺明的友谊、两次拒绝Ilya、与杨立昆和李飞飞的往来、世界模型观、以及研究哲学。</description>
+英伟达CEO黄仁勋接受专访，系统梳理了公司如何从游戏显卡厂商成长为AI革命的核心力量。他指出早期GPU的并行计算架构是现代深度学习的基础，并描绘了物理AI的未来：数字孪生与世界模型使人形机器人、无人驾驶具备物理常识。他强调从顺序计算到并行计算的转变从根本上重塑了技术行业，并认为这些工具将充当「超人类助手」，帮助人类在生物、气候等领域解决复杂问题。</description>
     </item>
     <item>
-      <title>[Jensen Huang] 英伟达CEO黄仁勋GTC 2026完整主题演讲</title>
-      <link>https://www.youtube.com/watch?v=jIviHI7fqyc</link>
-      <guid isPermaLink="false">jIviHI7fqyc</guid>
-      <pubDate>Mon, 16 Mar 2026 21:53:36 +0000</pubDate>
-      <author>Yahoo Finance</author>
-      <description>Yahoo Finance · 140 分钟
-
-英伟达CEO黄仁勋在GTC 2026上的完整主题演讲。涵盖Blackwell/Rubin收入展望、收购Groq的交易及其AI云战略，以及Nebius与Meta达成的2027年起最多270亿美元容量协议。</description>
-    </item>
-    <item>
-      <title>[Topic: OpenAI Talks] 用AI构建更好的医疗服务——OpenAI播客第14集</title>
-      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
-      <guid isPermaLink="false">VAzryGwnJW8</guid>
-      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
-      <author>OpenAI</author>
-      <description>OpenAI · 31 分钟
-
-OpenAI健康负责人Nate Gross博士与健康AI研究负责人Karan Singhal，讨论AI如何帮助应对全球医疗系统面临的最大挑战。涵盖OpenAI如何与医生合作训练模型处理敏感健康问题，以及这些基础如何为患者、临床医生和医疗系统解锁新一代工具。</description>
-    </item>
-    <item>
-      <title>[Topic: Meta AI Talks] Meta神经科学家让我震惊：仅靠 Scaling 不会产生意识！</title>
-      <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
-      <guid isPermaLink="false">wkHW2eV7mAs</guid>
-      <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
-      <author>Dr Brian Keating</author>
-      <description>Dr Brian Keating · 51 分钟
-
-Meta Reality Labs的David Sussillo博士解释为何仅靠扩大transformer规模不会产生有意识的AI——以及为何研究大脑可能是唯一的出路。前Google Brain研究员，现领导Meta Reality Labs研究，探讨了RNN与transformer的差异、训练RNN的FORCE算法、以及为何研究大脑才是突破当前AI瓶颈的可能路径。</description>
-    </item>
-    <item>
-      <title>[Channel: Dwarkesh Patel] Dylan Patel：Scaling AI算力最大的单一瓶颈</title>
+      <title>[Channel: Dwarkesh Patel] Dylan Patel：扩展AI算力最大的单一瓶颈</title>
       <link>https://www.youtube.com/watch?v=mDG_Hx3BSUE</link>
       <guid isPermaLink="false">mDG_Hx3BSUE</guid>
       <pubDate>Fri, 13 Mar 2026 16:26:57 +0000</pubDate>
       <author>Dwarkesh Patel</author>
       <description>Dwarkesh Patel · 151 分钟
 
-SemiAnalysis创始人Dylan Patel深入探讨Scaling AI算力的三大瓶颈：逻辑、内存和电力。并分析了实验室、超大规模云商、代工厂和半导体设备制造商的经济格局。涵盖H100价值不降反升的原因、Nvidia早期锁定台积电产能、ASML将成为2030年最大制约因素、以及即将到来的内存危机。</description>
+SemiAnalysis创始人Dylan Patel在Dwarkesh Patel的播客中，系统梳理了AI算力扩展面临的三大核心瓶颈：芯片逻辑能力、内存带宽与功耗。他深入分析了各AI实验室、云服务商、代工厂及设备商的经济博弈，涵盖H100涨价背后的供应链逻辑、ASML光刻机为何将成为2030年最大约束、中国半导体能否赶超西方、以及即将到来的内存危机等关键议题。</description>
     </item>
     <item>
-      <title>[Channel: Machine Learning Street Talk] 当AI发现下一个Transformer—— Robert Lange</title>
+      <title>[Topic: OpenAI Talks] OpenAI Podcast第14期：用AI改善医疗保健</title>
+      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
+      <guid isPermaLink="false">VAzryGwnJW8</guid>
+      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
+      <author>OpenAI</author>
+      <description>OpenAI · 31 分钟
+
+OpenAI健康负责人Dr. Nate Gross与健康AI研究负责人Karan Singhal对话，讨论AI如何帮助医疗系统减压。两位详细介绍了AI模型在临床问题上的训练方式、与医疗机构的合作进展，以及日常使用中最大的挑战。访谈提及AI在分诊、病例分析、患者沟通等场景的初步应用，以及来自临床医生和早期用户的反馈。</description>
+    </item>
+    <item>
+      <title>[Channel: Zhang Xiaojun Podcast] 7小时马拉松访谈：谢赛宁谈世界模型、AMI Labs与「42」</title>
+      <link>https://www.youtube.com/watch?v=rIwgZWzUKm8</link>
+      <guid isPermaLink="false">rIwgZWzUKm8</guid>
+      <pubDate>Mon, 16 Mar 2026 03:30:41 +0000</pubDate>
+      <author>Zhang Xiaojun Podcast</author>
+      <description>Zhang Xiaojun Podcast · 405 分钟
+
+1990年出生的华人科学家谢赛宁（纽约大学助理教授，DiT扩散Transformer论文合著者，曾在Google DeepMind和Meta FAIR任职）在2月一个雪夜与张晓君进行了7小时的深度对话，这是他首次接受中文采访。他与图灵奖得主杨立昆共同创办了AMI Labs，已获10.3亿美元种子轮融资。他对AI领域提出尖锐批评：「硅谷完全被大语言模型催眠了」「语言模型的Scaling Law里有水分」「语言是毒药」。他还回忆了与何恺明的友谊、两次拒绝Ilya Sutskever邀请等鲜为人知的故事，探讨了世界模型的本质 AMI Labs如何从零开始，以及他对AI研究品味的理解。节目覆盖了AI领域过去15年的技术变迁与关键人物。</description>
+    </item>
+    <item>
+      <title>[Topic: OpenAI Talks] Emil Michael：五角大楼正在以比硅谷更快的速度推进AI</title>
+      <link>https://www.youtube.com/watch?v=tL3sXpxpCPs</link>
+      <guid isPermaLink="false">tL3sXpxpCPs</guid>
+      <pubDate>Fri, 13 Mar 2026 16:42:31 +0000</pubDate>
+      <author>a16z</author>
+      <description>a16z · 27 分钟
+
+美国国防部副部长Emil Michael在a16z峰会上发表演讲，讲述他上任后如何将部门14个技术优先项压缩至6个，并将应用AI作为核心。他首次披露了前届政府AI采购合同造成的供应商锁定问题如何直接威胁美军行动安全，并就国会对AI军事应用的监督机制、创业公司如何在国防领域发挥作用等议题进行探讨。</description>
+    </item>
+    <item>
+      <title>[Topic: Meta AI Talks] Rana el Kaliouby：AI的未来必须以人为本</title>
+      <link>https://www.youtube.com/watch?v=5bWblk9d5jY</link>
+      <guid isPermaLink="false">5bWblk9d5jY</guid>
+      <pubDate>Sun, 15 Mar 2026 18:59:40 +0000</pubDate>
+      <author>SXSW</author>
+      <description>SXSW · 54 分钟
+
+AI科学家、企业家Rana el Kaliouby在SXSW与记者Bob Safian对话，分享她为何在AI狂飙突进的时代坚持「以人为中心」的立场。她认为AI革命正在深刻改变人类的工作与生活方式，下一代AI公司肩负着以意图为导向进行创新的责任——在推动技术进步的同时，必须确保AI增强而非削弱人类潜力，并帮助人类解决最复杂的挑战。</description>
+    </item>
+    <item>
+      <title>[Topic: OpenAI Talks] SES AI CEO胡启朝：这款AI Agent解决了电动汽车的 最大难题</title>
+      <link>https://www.youtube.com/watch?v=ujONZEFtHeQ</link>
+      <guid isPermaLink="false">ujONZEFtHeQ</guid>
+      <pubDate>Sun, 15 Mar 2026 22:17:40 +0000</pubDate>
+      <author>The Neuron</author>
+      <description>The Neuron · 47 分钟
+
+SES AI CEO胡启朝博士在The Neuron节目中，详细介绍其团队如何用AI Agent配合自动化湿实验室，将原本长达8年的电池材料研究周期压缩至2周。他们聚焦锂金属电池的电解质难题，并正在将「分子宇宙」数据库扩展至数据中心、机器人和AR眼镜等领域，展示了AI Agent如何在物理世界中解决材料科学约束。</description>
+    </item>
+    <item>
+      <title>[Topic: Google DeepMind Talks] Enformer：从基因序列预测表达量</title>
+      <link>https://www.youtube.com/watch?v=HWU5a0VCd5c</link>
+      <guid isPermaLink="false">HWU5a0VCd5c</guid>
+      <pubDate>Sun, 15 Mar 2026 08:43:00 +0000</pubDate>
+      <author>the bioinformatics chat</author>
+      <description>the bioinformatics chat · 60 分钟
+
+Google Genomics研究员Žiga Avsec在Bioinformatics Chat节目中，系统介绍了Enformer模型的设计思路——如何从DNA序列预测基因表达水平。他与主持人Jacob Schreiber讨论了学术与工业研究的差异、Enformer相比早期模型的改进，以及深度学习在基因组学中的实际应用前景与局限。</description>
+    </item>
+    <item>
+      <title>[Topic: Google DeepMind Talks] 让机器人连续13小时制作浓缩咖啡的公司</title>
+      <link>https://www.youtube.com/watch?v=Gtiv9j2fRDU</link>
+      <guid isPermaLink="false">Gtiv9j2fRDU</guid>
+      <pubDate>Tue, 17 Mar 2026 12:00:34 +0000</pubDate>
+      <author>The Generalist</author>
+      <description>The Generalist · 74 分钟
+
+Physical Intelligence联合创始人兼CEO Karol Hausman（前Google Brain、斯坦福大学）在The Generalist节目中，系统阐述了他创立这家估值超10亿美元机器人公司的核心逻辑：机器人领域的核心挑战不是机械设计，而是智能本身——如何让机器从有限数据中学习泛化，并应对远比语言更复杂的物理世界。他分析了强化学习在机器人领域的回归、为何真实世界数据比模拟更重要，以及为何机器人的可靠性要求远超语言模型。</description>
+    </item>
+    <item>
+      <title>[Channel: Machine Learning Street Talk] 当AI发现下一个Transformer——Robert Lange谈Shinka Evolve</title>
       <link>https://www.youtube.com/watch?v=EInEmGaMRLc</link>
       <guid isPermaLink="false">EInEmGaMRLc</guid>
       <pubDate>Fri, 13 Mar 2026 21:00:10 +0000</pubDate>
       <author>Machine Learning Street Talk</author>
       <description>Machine Learning Street Talk · 78 分钟
 
-Sana AI创始研究员Robert Lange讨论Shinka Evolve——一个将LLM与进化算法结合、实现开放式程序搜索的框架。核心观点：AlphaEvolve需要人类提供正确的问题，而Shinka尝试自动创造新问题。涵盖MAP-Elites质量多样性搜索、中途自适应切换GPT-5/Sonnet 4.5/Gemini的UCB bandit算法、以及AI Scientist能否真正做科学的问题。</description>
+Sakana AI创始研究员Robert Lange在Machine Learning Street Talk中，详细介绍Shinka Evolve框架如何将大语言模型与进化算法结合，实现开放式程序搜索。与需要人类提供正确问题的AlphaEvolve不同，Shinka能自动生成并共同进化问题本身。他分享了在天体包装优化、AtCoder编程挑战、MoE模型负载均衡、AIME数学基准等任务上的实验结果，并就AI能否真正独立做科学展开诚实讨论。</description>
     </item>
     <item>
-      <title>[Channel: Zhang Xiaojun Podcast] 谢赛宁7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42</title>
+      <title>[Topic: Meta AI Talks] Meta神经科学家让我震惊：仅靠规模无法创造意识</title>
+      <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
+      <guid isPermaLink="false">wkHW2eV7mAs</guid>
+      <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
+      <author>Dr Brian Keating</author>
+      <description>Dr Brian Keating · 51 分钟
+
+Meta Reality Labs研究员、斯坦福大学学者David Sussillo在Dr. Brian Keating节目中，从神经科学角度剖析了当前AI路线的根本局限：仅靠Scaling Transformers无法产生有意识AI。他指出当前GPU-Transformer范式可能存在天花板，并解释了为何理解大脑的计算机制——而非继续堆参数——才是通向真正智能的路径。他也讨论了RNN与Transformer的本质差异、自己开发的FORCE算法，以及Meta神经腕带如何通过读取生物信号探索下一代人机交互。</description>
+    </item>
+    <item>
+      <title>[Channel: Y Combinator] 印度增长最快的AI创业公司</title>
+      <link>https://www.youtube.com/watch?v=8SVocWnDHwE</link>
+      <guid isPermaLink="false">8SVocWnDHwE</guid>
+      <pubDate>Mon, 16 Mar 2026 13:00:14 +0000</pubDate>
+      <author>Y Combinator</author>
+      <description>Y Combinator · 40 分钟
+
+Y Combinator孵化的Emergent由Mukund和Madhav Jha兄弟创办，其AI平台让任何人在8个月内创建了超700万个应用，且增速还在加快。他们选择专注于非技术用户这一差异化路线，解释了为何后发者可以在AI时代胜出，以及如何构建真正可投入生产的AI应用而非原型。访谈涵盖了他们如何以精益方式运营团队，以及AI编程助手在「AI Agent时代」的产品思考。</description>
+    </item>
+    <item>
+      <title>[Channel: Zhang Xiaojun Podcast] 对话谢赛宁：逃出硅谷！AMI Labs、两次拒绝Ilya、杨立昆和42</title>
       <link>https://www.youtube.com/watch?v=iiBY0fqpThI</link>
       <guid isPermaLink="false">iiBY0fqpThI</guid>
       <pubDate>Mon, 16 Mar 2026 08:03:12 +0000</pubDate>
       <author>Zhang Xiaojun Podcast</author>
       <description>Zhang Xiaojun Podcast · 406 分钟
 
-谢赛宁谈世界模型、逃离硅谷、与杨立昆共同创立AMI Labs、两次拒绝Ilya的经过，以及与杨立昆、李飞飞的往事。他说：「硅谷完全被LLM催眠了。」涵盖研究品味与《金刚经》、什么是世界模型、从下载互联网到下载人类、与杨立昆创立AMI的始末、「硅谷被催眠了」、「人类的自大」等主题。</description>
+这是谢赛宁的首次中文深度访谈。1990年出生于上海的华人科学家、纽约大学助理教授、DiT论文合著者、前Google DeepMind与Meta FAIR研究员，与张晓君进行了7小时马拉松式对话。他与杨立昆创办的AMI Labs在没有任何产品的情况下获得10.3亿美元种子轮融资，估值35亿美元，为欧洲历史最大种子轮。他对AI现状提出尖锐批评：「硅谷完全被大语言模型催眠了」「Scaling Law里有水分」「语言是毒药」。他详细回忆了与何恺明的友谊、两次拒绝Ilya Sutskever邀请的经过，阐述了他对世界模型本质的思考——「从下载互联网到下载人类」，以及他为何认为当前AI研究品味的深层问题。节目最后揭示了「42」这一数字的含义。访谈覆盖了过去15年AI技术变迁的关键人物与节点。</description>
     </item>
   </channel>
 </rss>
