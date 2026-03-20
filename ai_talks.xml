@@ -4,80 +4,14 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Fri, 20 Mar 2026 08:35:33 +0000</lastBuildDate>
-    <item>
-      <title>[Dario Amodei] Dario Amodei and Ali Ghodsi: Anthropic + Databricks, AI Agents in the Enterprise, AI Scaling Laws</title>
-      <link>https://www.youtube.com/watch?v=MTsoRWPS46o</link>
-      <guid isPermaLink="false">MTsoRWPS46o</guid>
-      <pubDate>Tue, 03 Mar 2026 17:48:42 +0000</pubDate>
-      <author>Databricks</author>
-      <description>&lt;img src="https://img.youtube.com/vi/MTsoRWPS46o/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Databricks · 23 min&lt;br/&gt;&lt;br/&gt;Dario Amodei与Databricks CEO Ali Ghodsi进行炉边对话，探讨Anthropic与Databricks的合作、企业级AI Agent，以及AI扩展定律。</description>
-    </item>
-    <item>
-      <title>[Dario Amodei] The AI Tsunami is Here &amp; Society Isn't Ready | Dario Amodei x Nikhil Kamath | People by WTF</title>
-      <link>https://www.youtube.com/watch?v=68ylaeBbdsg</link>
-      <guid isPermaLink="false">68ylaeBbdsg</guid>
-      <pubDate>Tue, 24 Feb 2026 09:30:02 +0000</pubDate>
-      <author>Nikhil Kamath</author>
-      <description>&lt;img src="https://img.youtube.com/vi/68ylaeBbdsg/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Nikhil Kamath · 69 min&lt;br/&gt;&lt;br/&gt;Dario Amodei在印度班加罗尔接受WTF People访谈。他曾是生物学家，致力于用AI工具治愈疾病，如今领导着AI革命。访谈涉及：为何Anthropic在ChatGPT诞生前就秘密保留了一个可用模型；AI是否即将具备意识；外包思维是否会让人类变得更愚蠢；编程是否正在成为一项过时技能；以及当前AI领域权力高度集中的问题。
-
-章节：
-00:06 扩展定律简析
-13:27 信任、谦逊与企业动机
-22:44 个人使用Claude的心得
-31:03 富人批评自己的制度
-37:05 印度角色与IT合作
-44:15 AI何时在所有事务上超越人类
-50:17 给印度年轻人的职业建议
-56:38 开源与闭源AI之争
-1:02:40 生物技术作为下一个重大赌注</description>
-    </item>
-    <item>
-      <title>[Dario Amodei] Full interview: Anthropic CEO Dario Amodei responds to Trump's order, the Pentagon clash</title>
-      <link>https://www.youtube.com/watch?v=WGSpUSRHKUY</link>
-      <guid isPermaLink="false">WGSpUSRHKUY</guid>
-      <pubDate>Sun, 01 Mar 2026 21:58:26 +0000</pubDate>
-      <author>Global News, Stories, and Clips</author>
-      <description>&lt;img src="https://img.youtube.com/vi/WGSpUSRHKUY/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Global News, Stories, and Clips · 28 min&lt;br/&gt;&lt;br/&gt;Anthropic CEO Dario Amodei接受CBS News独家专访，就国防部长Pete Hegseth宣布该公司为国家安全供应链风险一事进行回应。Amodei称这一决定「报复性且惩罚性」，并表示Anthropic试图在美国政府对其技术的使用上划定「红线」，因为「跨越这些红线违背美国价值观」。
-
-章节：
-03:21 为何未能与五角大楼达成协议
-07:23 Hegseth将Anthropic列为供应链风险的反应
-11:15 美国人为何应该信任他
-20:59 回应特朗普称Anthropic为「觉醒公司」
-23:18 给特朗普的信息
-26:13 Anthropic能否作为企业继续生存</description>
-    </item>
-    <item>
-      <title>[Dario Amodei] LIVE: Anthropic CEO Dario Amodei address at AI India impact summit in Delhi | AI Growth|Global South</title>
-      <link>https://www.youtube.com/watch?v=T0baAJYrV94</link>
-      <guid isPermaLink="false">T0baAJYrV94</guid>
-      <pubDate>Thu, 19 Feb 2026 05:08:47 +0000</pubDate>
-      <author>ANI News</author>
-      <description>&lt;img src="https://img.youtube.com/vi/T0baAJYrV94/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;ANI News · 42 min&lt;br/&gt;&lt;br/&gt;Anthropic CEO Dario Amodei在印度新德里AI India Impact峰会上发表现场演讲。</description>
-    </item>
-    <item>
-      <title>[Geoffrey Hinton] The AI Scenario Nobody Wants To Talk About | Geoffrey Hinton (The Diary Of A CEO)</title>
-      <link>https://www.youtube.com/watch?v=mniyJXyK28c</link>
-      <guid isPermaLink="false">mniyJXyK28c</guid>
-      <pubDate>Sat, 14 Mar 2026 16:01:07 +0000</pubDate>
-      <author>The Lumen Project</author>
-      <description>&lt;img src="https://img.youtube.com/vi/mniyJXyK28c/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The Lumen Project · 27 min&lt;br/&gt;&lt;br/&gt;被称为「AI教父」的Geoffrey Hinton在《The Diary of a CEO》节目中发出警告：AI可能成为人类最大的风险之一。节目探讨AI加速发展带来的隐患：自主武器、AI驱动的网络攻击、机器超越人类智能的可能性，以及人类是否仍能保持控制权。
-
-关键要点：
-• AI开发速度远超预期
-• AI风险既来自人类滥用也来自技术本身
-• 网络攻击将因AI变得更具破坏性
-• 自主武器可能降低战争门槛
-• 超级智能AI已成为现实可能性</description>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 13:09:15 +0000</lastBuildDate>
     <item>
       <title>[Jensen Huang] Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy</title>
       <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
       <guid isPermaLink="false">xv7UVAfyebk</guid>
       <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
       <author>Morgan Stanley</author>
-      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;NVIDIA CEO Jensen Huang在摩根士丹利科技、媒体与电信大会上阐述AI如何重塑全球经济。他的核心观点：计算创造Token，Token驱动智能，智能转化为经济产出——从公司到国家层面。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;摩根士丹利科技、媒体与电信大会（TMT Conference）在旧金山举行，英伟达CEO黄仁勋出席并发表演讲，阐述AI如何重塑全球经济。核心观点：算力创造token，token驱动智能，智能转化为经济产出——从公司到国家层面均如此。</description>
     </item>
     <item>
       <title>[Jensen Huang] Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis</title>
@@ -85,20 +19,7 @@
       <guid isPermaLink="false">gwW8GKwHB3I</guid>
       <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
       <author>All-In Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;Jensen Huang做客All-In Podcast，讨论英伟达未来、物理AI的50万亿美元市场、Agent的崛起、推理革命、AI公关危机、开源与全球扩散、伊朗/台湾供应链影响、机器人技术等话题。
-
-章节：
-00:00 开场
-01:00 收购Groq与推理爆炸
-09:27 全球最有价值公司的决策机制
-11:22 物理AI的50万亿美元市场
-17:12 AI公关危机，反驳末日论叙事
-21:22 收入能力、员工Token分配、Karpathy的自动研究
-31:24 开源、全球扩散、供应链影响
-40:19 自动驾驶平台，回应增长放缓预测
-48:06 数据中心太空化、AI医疗、机器人技术
-56:44 OpenAI/Anthropic收入潜力，如何构建AI护城河
-59:38 给年轻人在AI时代的建议</description>
+      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;All-In Podcast完整节目文字稿。黄仁勋作为嘉宾参与录制，覆盖话题包括：收购Groq与推理算力爆发、全球最有价值公司的决策机制、物理AI的50万亿美元市场、OpenClaw的未来、AI的新操作系统、AI的公关危机与「末日论」反驳、员工期权分配、Karpathy的自主研究、代理未来、开源与全球扩散、伊朗/台湾供应链影响、自动驾驶平台、医疗AI、机器人。</description>
     </item>
     <item>
       <title>[Jensen Huang] NVIDIA CEO Jensen Huang GTC 2026 Full Keynote</title>
@@ -106,7 +27,15 @@
       <guid isPermaLink="false">jIviHI7fqyc</guid>
       <pubDate>Mon, 16 Mar 2026 21:53:36 +0000</pubDate>
       <author>Yahoo Finance</author>
-      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 min&lt;br/&gt;&lt;br/&gt;NVIDIA CEO Jensen Huang在加州圣何塞举行的GTC大会上发表年度主题演讲，介绍英伟达的最新技术进展与战略动向。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 min&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在加州圣何塞举行的GTC大会上发表年度主题演讲。英伟达近期频繁出手，包括收购AI推理芯片设计商Groq。大会同时宣布英伟达战略合作伙伴Nebius与Meta达成协议，2027年起将为Meta提供最高270亿美元的云计算容量。</description>
+    </item>
+    <item>
+      <title>[Jensen Huang] Jensen Huang On NVIDIA Stock, OpenClaw, AI Demand - NVDA Update</title>
+      <link>https://www.youtube.com/watch?v=OMK2TydbF6g</link>
+      <guid isPermaLink="false">OMK2TydbF6g</guid>
+      <pubDate>Wed, 18 Mar 2026 19:59:31 +0000</pubDate>
+      <author>FinVid</author>
+      <description>&lt;img src="https://img.youtube.com/vi/OMK2TydbF6g/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;FinVid · 37 min&lt;br/&gt;&lt;br/&gt;黄仁勋与CNBC主持人Jim Cramer对话，讨论英伟达股票、OpenClaw、AI需求、中美H200芯片审批、供应链重启等话题。提到Blackwell Ultra快速上量、Rubin将在2026年推出、预计2026年下半年推出Groq 3 LPX、2026年底推出Rubin CPX、2027年推出Rubin Ultra、2028年推出Feynman。黄仁勋认为到2030年全球AI工厂建设将达3-4万亿美元。</description>
     </item>
     <item>
       <title>[Jensen Huang] LIVE: Nvidia CEO Jensen Huang Unveils AI Innovations | DRM News | AI1F</title>
@@ -114,7 +43,7 @@
       <guid isPermaLink="false">Yg0YQM0qk7w</guid>
       <pubDate>Tue, 17 Mar 2026 09:38:30 +0000</pubDate>
       <author>DRM News</author>
-      <description>&lt;img src="https://img.youtube.com/vi/Yg0YQM0qk7w/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;DRM News · 189 min&lt;br/&gt;&lt;br/&gt;Jensen Huang在圣何塞英伟达AI大会上发表现场主题演讲，公布GPU技术及AI驱动创新的最新进展。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/Yg0YQM0qk7w/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;DRM News · 189 min&lt;br/&gt;&lt;br/&gt;黄仁勋在圣何塞英伟达AI大会上发表主题演讲，介绍GPU技术最新进展及AI驱动的未来计算创新。DRM News进行全程直播跟踪报道。</description>
     </item>
     <item>
       <title>[Org: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
@@ -122,37 +51,7 @@
       <guid isPermaLink="false">VAzryGwnJW8</guid>
       <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
       <author>OpenAI</author>
-      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 min&lt;br/&gt;&lt;br/&gt;OpenAI健康负责人Dr. Nate Gross与健康AI研究负责人Karan Singhal探讨AI如何帮助应对医疗系统面临的最大挑战，包括如何训练模型处理敏感的医疗问题、与医疗机构的合作，以及为患者、临床医生和医疗系统开发的新一代工具。
-
-章节：
-00:05 医疗AI工具构建策略
-00:10 AI模型在医疗场景下的训练方式
-00:14 OpenAI如何在医疗评测中取得高分
-00:21 医疗AI部署的主要挑战
-00:26 临床医生和早期用户的反馈</description>
-    </item>
-    <item>
-      <title>[Org: Google DeepMind Talks] #64 Enformer: predicting gene expression from sequence with Žiga Avsec</title>
-      <link>https://www.youtube.com/watch?v=HWU5a0VCd5c</link>
-      <guid isPermaLink="false">HWU5a0VCd5c</guid>
-      <pubDate>Sun, 15 Mar 2026 08:43:00 +0000</pubDate>
-      <author>the bioinformatics chat</author>
-      <description>&lt;img src="https://img.youtube.com/vi/HWU5a0VCd5c/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;the bioinformatics chat · 60 min&lt;br/&gt;&lt;br/&gt;DeepMind研究员Žiga Avsec受邀介绍他参与开发的Enformer模型——该模型能够从基因序列预测基因表达。访谈探讨了学术界与工业界研究的差异、Enformer的构建过程及其对基因组学的未来意义。</description>
-    </item>
-    <item>
-      <title>[Org: Meta AI Talks] Meta NeuroScientist SHOCKED Me: Scale Alone Won’t Create Consciousness!</title>
-      <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
-      <guid isPermaLink="false">wkHW2eV7mAs</guid>
-      <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
-      <author>Dr Brian Keating</author>
-      <description>&lt;img src="https://img.youtube.com/vi/wkHW2eV7mAs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dr Brian Keating · 51 min&lt;br/&gt;&lt;br/&gt;Meta Reality Labs研究员David Sussillo与主持人Dr. Brian Keating对谈，解释为何单纯扩展Transformer不会产生有意识的AI——研究大脑可能是唯一的出路。他阐述了RNN与Transformer架构的本质差异、FORCE算法的原理，以及Meta EMG手环如何解读生物信号，还讨论了Rich Sutton的「苦涩教训」与当前GPU-Transformer范式的局限性。
-
-章节：
-00:00 单纯扩展无法产生意识的原因
-05:00 锁定问题：LLM+GPU是否触碰天花板
-11:20 Rich Sutton的苦涩教训
-14:15 「更多即不同」——为何无法向上化约复杂性
-28:30 Sussillo的著作《Emergence》——两条人生故事交织而成</description>
+      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 min&lt;br/&gt;&lt;br/&gt;OpenAI官方频道播客。OpenAI健康负责人Nate Gross与健康AI研究负责人Karan Singhal对谈，讨论AI如何帮助应对全球医疗系统面临的挑战：与医生合作训练模型处理敏感健康问题、构建患者和临床医生可用的新一代工具、与医院及医疗系统的合作落地案例。</description>
     </item>
     <item>
       <title>[Channel: Y Combinator] How AI Is Unlocking Millions Of New Builders</title>
@@ -160,30 +59,15 @@
       <guid isPermaLink="false">8SVocWnDHwE</guid>
       <pubDate>Mon, 16 Mar 2026 13:00:14 +0000</pubDate>
       <author>Y Combinator</author>
-      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 min&lt;br/&gt;&lt;br/&gt;Y Combinator Lightcone节目对话Emergent创始人Mukund和Madhav Jha——一个让任何人都能构建和发布生产级软件的AI平台。短短八个月，用户已在Emergent上创建超过700万个应用，且这一数字每45天就翻倍。创始人分享了如何打造强大的AI编程Agent、为何聚焦非技术用户，以及从印度向全球扩张的创业历程。
-
-章节：
-01:18 创始人背景
-02:52 从AI测试到通用编程Agent
-04:18 转向非技术用户的战略转型
-09:04 为生产环境而非原型构建
-18:21 现场演示：用Emergent构建应用
-29:04 SaaS已死？个性化软件的崛起</description>
+      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 min&lt;br/&gt;&lt;br/&gt;Y Combinator旗下The Lightcone节目对话Emergent创始人Mukund和Madhav Jha。Emergent是一个让任何人无需编程基础即可构建并上线生产级软件的AI平台。上线八个月，用户已创建超过700万个应用，过去45天数量翻倍。话题包括：AI编程代理如何构建、为何聚焦非技术用户、如何从印度服务全球市场、SaaS是否已死、AI代理的未来。附完整章节。</description>
     </item>
     <item>
-      <title>[Channel: Zhang Xiaojun Podcast] A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42</title>
-      <link>https://www.youtube.com/watch?v=rIwgZWzUKm8</link>
-      <guid isPermaLink="false">rIwgZWzUKm8</guid>
-      <pubDate>Mon, 16 Mar 2026 03:30:41 +0000</pubDate>
+      <title>[Channel: Zhang Xiaojun Podcast] 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42</title>
+      <link>https://www.youtube.com/watch?v=iiBY0fqpThI</link>
+      <guid isPermaLink="false">iiBY0fqpThI</guid>
+      <pubDate>Mon, 16 Mar 2026 08:03:12 +0000</pubDate>
       <author>Zhang Xiaojun Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/rIwgZWzUKm8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 405 min&lt;br/&gt;&lt;br/&gt;2026年3月，纽约一场严冬暴风雪中， NYU教授、X上唯一与Yann LeCun共同创立AMI Labs（Advanced Machine Intelligence Labs）的谢赛宁接受了长达7小时的马拉松访谈。25人团队、零产品的公司，已获得10.3亿美元Seed轮融资，投前估值35亿美元，成为2026年AI Neo Labs中全球第二大融资案例。谢赛宁在访谈中分享了他对世界模型的深刻见解，回顾了在Google DeepMind和Meta FAIR的职业生涯，阐述了他对当前AI发展路径的质疑与反思。
-
-核心观点：
-• 「硅谷完全被LLM催眠了」
-• 「LLM不是Bitter Lesson的成功典范，某种程度它们是反Bitter Lesson的」
-• 「语言模型的Scaling Law里有水分」
-• 「语言是毒药，或者是鸦片」
-• 「我非常担心语言对视觉的污染——实际上它已经在发生了」</description>
+      <description>&lt;img src="https://img.youtube.com/vi/iiBY0fqpThI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 406 min&lt;br/&gt;&lt;br/&gt;2026年2月雪后，纽约布鲁克林，谢赛宁与张晓军开启了一场马拉松式访谈。谢赛宁与图灵奖得主杨立昆共同创立了AMI Labs（Advanced Machine Intelligence Labs），目前25人、已完成1.03亿美元种子轮融资、估值3.5亿美元。谢赛宁1990年生于上海，毕业于上海交通大学与加州大学圣地亚哥分校，现于纽约大学任教；曾于Google DeepMind担任研究科学家，更早在Meta FAIR实验室从事研究四年，论文总引用数超10万次。访谈涵盖：世界模型研究历程、两次拒绝Ilya、Yann LeCun与李飞飞往来、AMI创业始末、硅谷为何被LLM「催眠」、以及「42」的含义。附完整章节时间戳。</description>
     </item>
   </channel>
 </rss>
