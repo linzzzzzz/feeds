@@ -4,62 +4,30 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Fri, 20 Mar 2026 04:04:02 +0000</lastBuildDate>
-    <item>
-      <title>[Jensen Huang] Jensen Huang and the Reinvention of Computing</title>
-      <link>https://www.youtube.com/watch?v=FSXiiP7pO-U</link>
-      <guid isPermaLink="false">FSXiiP7pO-U</guid>
-      <pubDate>Sat, 14 Mar 2026 06:50:50 +0000</pubDate>
-      <author>APPLIED ENGLISH LABS</author>
-      <description>&lt;img src="https://img.youtube.com/vi/FSXiiP7pO-U/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;APPLIED ENGLISH LABS · 51 min&lt;br/&gt;&lt;br/&gt;In a featured interview, NVIDIA CEO Jensen Huang describes the evolution of accelerated computing and the strategic bets that positioned his company at the center of the artificial intelligence revolution. He explains how early innovations in graphics processing units for video games provided the parallel processing foundation necessary for modern deep learning breakthroughs. Looking forward, Huang envisions a world of physical AI, where digital twins and world models enable everything from humanoid robots to autonomous vehicles to operate with physical common sense. He maintains that while energy efficiency remains a primary challenge, the shift from sequential to parallel computing has fundamentally reinvented technology for the next generation. Ultimately, Huang emphasizes that these tools will act as superhuman assistants, empowering individuals to solve complex problems in fields like biology and climate science more effectively.</description>
-    </item>
-    <item>
-      <title>[Jensen Huang] Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis</title>
-      <link>https://www.youtube.com/watch?v=gwW8GKwHB3I</link>
-      <guid isPermaLink="false">gwW8GKwHB3I</guid>
-      <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
-      <author>All-In Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;Jensen Huang joins the All-In Podcast to discuss Nvidia's strategic direction. Topics include: the acqui-hire of Groq and the inference chip market, Physical AI's $50T opportunity, the new operating system for modern AI computing, AI's PR crisis and how Nvidia refutes doomer narratives, Anthropic's communications mistakes, token allocation for employees, Karpathy's auto-research project, the agentic future, open source strategy, Iran/Taiwan supply chain risks, self-driving platform competition, datacenters in space, AI healthcare, robotics, and advice for young people navigating the AI era.</description>
-    </item>
-    <item>
-      <title>[Jensen Huang] Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy</title>
-      <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
-      <guid isPermaLink="false">xv7UVAfyebk</guid>
-      <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
-      <author>Morgan Stanley</author>
-      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;From the Morgan Stanley Technology, Media &amp; Telecom Conference in San Francisco, Nvidia CEO Jensen Huang explains how AI is reshaping the global economy. His core thesis: compute creates tokens, tokens power intelligence, and intelligence translates into economic output — at every level, from companies to countries. Huang also discusses Nvidia's role in the AI compute value chain and what the token economy means for the next phase of AI growth.</description>
-    </item>
-    <item>
-      <title>[Jensen Huang] Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis</title>
-      <link>https://www.youtube.com/watch?v=gwW8GKwHB3I</link>
-      <guid isPermaLink="false">gwW8GKwHB3I</guid>
-      <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
-      <author>All-In Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;Jensen Huang joins the All-In Podcast to discuss Nvidia's strategic direction. Topics include: the acqui-hire of Groq and the inference chip market, Physical AI's $50T opportunity, the new operating system for modern AI computing, AI's PR crisis and how Nvidia refutes doomer narratives, Anthropic's communications mistakes, token allocation for employees, Karpathy's auto-research project, the agentic future, open source strategy, Iran/Taiwan supply chain risks, self-driving platform competition, datacenters in space, AI healthcare, robotics, and advice for young people navigating the AI era.</description>
-    </item>
-    <item>
-      <title>[Jensen Huang] Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy</title>
-      <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
-      <guid isPermaLink="false">xv7UVAfyebk</guid>
-      <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
-      <author>Morgan Stanley</author>
-      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;From the Morgan Stanley Technology, Media &amp; Telecom Conference in San Francisco, Nvidia CEO Jensen Huang explains how AI is reshaping the global economy. His core thesis: compute creates tokens, tokens power intelligence, and intelligence translates into economic output — at every level, from companies to countries. Huang also discusses Nvidia's role in the AI compute value chain and what the token economy means for the next phase of AI growth.</description>
-    </item>
-    <item>
-      <title>[Yann LeCun] "Perspectives on IA" : conf. de Yann LeCun, WinterWeek – Graduate School – Univ. Gustave Eiffel</title>
-      <link>https://www.youtube.com/watch?v=nqDHPpKha_A</link>
-      <guid isPermaLink="false">nqDHPpKha_A</guid>
-      <pubDate>Fri, 13 Mar 2026 08:23:20 +0000</pubDate>
-      <author>Université Gustave Eiffel</author>
-      <description>&lt;img src="https://img.youtube.com/vi/nqDHPpKha_A/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Université Gustave Eiffel · 126 min&lt;br/&gt;&lt;br/&gt;Yann LeCun, 2018 Turing Award winner for Deep Learning, delivers a conference talk titled 「Perspectives on IA」 at the Université Gustave Eiffel WinterWeek (Feb 2026). He discusses the revival of predictive AI research via his startup AMI Labs and the development of a new approach based on 「world models.」 LeCun also reflects on his career from ESIEE to NYU to Meta FAIR, and his contributions to convolutional neural networks.</description>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 07:29:00 +0000</lastBuildDate>
     <item>
       <title>[Geoffrey Hinton] The AI Scenario Nobody Wants To Talk About | Geoffrey Hinton (The Diary Of A CEO)</title>
       <link>https://www.youtube.com/watch?v=mniyJXyK28c</link>
       <guid isPermaLink="false">mniyJXyK28c</guid>
       <pubDate>Sat, 14 Mar 2026 16:01:07 +0000</pubDate>
       <author>The Lumen Project</author>
-      <description>&lt;img src="https://img.youtube.com/vi/mniyJXyK28c/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The Lumen Project · 27 min&lt;br/&gt;&lt;br/&gt;Geoffrey Hinton, the 「Godfather of AI,」 appears on The Diary of a CEO to sound the alarm on AI risks he helped create. Topics include: why AI pioneers are worried, AI-powered cyber attacks, the threat of AI-designed biological viruses, autonomous weapons, elections manipulation by AI, and the possibility of superintelligent machines surpassing human control.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/mniyJXyK28c/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The Lumen Project · 27 min&lt;br/&gt;&lt;br/&gt;Geoffrey Hinton, often called the Godfather of AI, explains why the technology he spent 50 years developing — neural networks — could become one of humanity's greatest risks. Topics covered: autonomous weapons, AI-powered cyber attacks, AI-designed biological viruses, election manipulation via AI echo chambers, the difficulty of regulating AI globally, lethal autonomous weapons, and the real possibility of superintelligent machines surpassing human control. Hinton argues AI development cannot be stopped and that the intelligence being built may soon outperform the intelligence that created it — raising fundamental questions not just about technology, but about humanity's future role.</description>
+    </item>
+    <item>
+      <title>[Jensen Huang] Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy</title>
+      <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
+      <guid isPermaLink="false">xv7UVAfyebk</guid>
+      <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
+      <author>Morgan Stanley</author>
+      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;NVIDIA CEO Jensen Huang at the Morgan Stanley Technology, Media &amp; Telecom Conference. Core thesis: compute creates tokens, tokens power intelligence, and intelligence translates into economic output at every level — from companies to countries. Huang explains how AI is reshaping the global economy.</description>
+    </item>
+    <item>
+      <title>[Jensen Huang] Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis</title>
+      <link>https://www.youtube.com/watch?v=gwW8GKwHB3I</link>
+      <guid isPermaLink="false">gwW8GKwHB3I</guid>
+      <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
+      <author>All-In Podcast</author>
+      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;Jensen Huang joins the All-In Podcast for a wide-ranging interview. Topics: acquiring Groq and the inference explosion; decision-making at the world's most valuable company; Physical AI's $50T market opportunity; AI's PR crisis and refuting doomer narratives; Anthropic's communication mistakes; revenue capacity and token allocation for employees; Karpathy's autoresearch; the agentic future; open source and global diffusion; Iran/Taiwan supply chain impact; self-driving platform; AI healthcare and robotics; OpenAI/Anthropic revenue potential; advice to young people on excelling in the AI era.</description>
     </item>
     <item>
       <title>[Jensen Huang] NVIDIA CEO Jensen Huang GTC 2026 Full Keynote</title>
@@ -67,31 +35,39 @@
       <guid isPermaLink="false">jIviHI7fqyc</guid>
       <pubDate>Mon, 16 Mar 2026 21:53:36 +0000</pubDate>
       <author>Yahoo Finance</author>
-      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 min&lt;br/&gt;&lt;br/&gt;Nvidia CEO Jensen Huang delivers his full GTC 2026 keynote, covering: the acqui-hire agreement with AI inference chip designer Groq, the strategic Nebius-Meta $27B capacity deal for 2027, and the broader AI chip roadmap. The keynote is the centerpiece of Nvidia's annual developer conference.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 min&lt;br/&gt;&lt;br/&gt;NVIDIA CEO Jensen Huang delivers his annual GTC keynote in San Jose, California. Covers: Blackwell architecture details, new inference chips, robotics developments, and the Groq acqui-hire agreement. Also discusses strategic partner Nebius's $27 billion deal with Meta for AI cloud capacity starting in 2027.</description>
     </item>
     <item>
-      <title>[Jensen Huang] 黃仁勳最新訪談：AI 自駕已不是科幻，真正革命才剛開始｜Jensen Huang’s Interview: AI Self-Driving Is No Longer Science Fiction</title>
-      <link>https://www.youtube.com/watch?v=RAwKTSELeZI</link>
-      <guid isPermaLink="false">RAwKTSELeZI</guid>
-      <pubDate>Fri, 13 Mar 2026 11:30:34 +0000</pubDate>
-      <author>New SciTech 新科技</author>
-      <description>&lt;img src="https://img.youtube.com/vi/RAwKTSELeZI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;New SciTech 新科技 · 22 min&lt;br/&gt;&lt;br/&gt;Jensen Huang discusses AI self-driving, end-to-end models, safety stacks, and robotaxi future in an interview with New SciTech. Huang frames autonomous driving not as a tech demo but as a preview of the next transportation revolution, and explains how AI reasoning changes the calculus on safety and deployment timelines.</description>
+      <title>[Org: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
+      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
+      <guid isPermaLink="false">VAzryGwnJW8</guid>
+      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
+      <author>OpenAI</author>
+      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 min&lt;br/&gt;&lt;br/&gt;OpenAI's Head of Health Dr. Nate Gross and Health AI Research lead Karan Singhal discuss AI in healthcare on the OpenAI Podcast. Topics: how AI models are trained on sensitive health questions in collaboration with physicians; how that foundation is unlocking a new generation of tools for patients, clinicians, and healthcare systems; key challenges deploying AI in healthcare; collaboration with hospitals; practical everyday uses of AI health assistants; the biggest wow moments during development.</description>
     </item>
     <item>
-      <title>[Channel: Dwarkesh Patel] Dylan Patel — The single biggest bottleneck to scaling AI compute</title>
-      <link>https://www.youtube.com/watch?v=mDG_Hx3BSUE</link>
-      <guid isPermaLink="false">mDG_Hx3BSUE</guid>
-      <pubDate>Fri, 13 Mar 2026 16:26:57 +0000</pubDate>
-      <author>Dwarkesh Patel</author>
-      <description>&lt;img src="https://img.youtube.com/vi/mDG_Hx3BSUE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dwarkesh Patel · 151 min&lt;br/&gt;&lt;br/&gt;Dylan Patel, founder of SemiAnalysis, gives a deep dive into the three big bottlenecks constraining AI compute scaling: logic (compute), memory (bandwidth/capacity), and power. He walks through the economics of AI labs, hyperscalers, foundries (TSMC), and fab equipment makers (ASML). Key timestamps cover why H100 prices have risen, TSMC allocation dynamics, ASML as the #1 constraint by 2030, China's semiconductor scaling timeline, the incoming memory crunch, US power constraints, and the robotics/taiwan risk question.</description>
+      <title>[Org: Google DeepMind Talks] #64 Enformer: predicting gene expression from sequence with Žiga Avsec</title>
+      <link>https://www.youtube.com/watch?v=HWU5a0VCd5c</link>
+      <guid isPermaLink="false">HWU5a0VCd5c</guid>
+      <pubDate>Sun, 15 Mar 2026 08:43:00 +0000</pubDate>
+      <author>the bioinformatics chat</author>
+      <description>&lt;img src="https://img.youtube.com/vi/HWU5a0VCd5c/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;the bioinformatics chat · 60 min&lt;br/&gt;&lt;br/&gt;Žiga Avsec, a DeepMind researcher and co-author of the Enformer paper, discusses with the bioinformatics chat channel: life differences between academia and industry research; the Enformer model for predicting gene expression from DNA sequence; how it builds on previous work; the potential that models like Enformer have for genomics research in the future; and a high-level discussion on modern deep learning libraries used in day-to-day development.</description>
     </item>
     <item>
-      <title>[Channel: Machine Learning Street Talk] When AI Discovers the Next Transformer — Robert Lange</title>
-      <link>https://www.youtube.com/watch?v=EInEmGaMRLc</link>
-      <guid isPermaLink="false">EInEmGaMRLc</guid>
-      <pubDate>Fri, 13 Mar 2026 21:00:10 +0000</pubDate>
-      <author>Machine Learning Street Talk</author>
-      <description>&lt;img src="https://img.youtube.com/vi/EInEmGaMRLc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Machine Learning Street Talk · 78 min&lt;br/&gt;&lt;br/&gt;Robert Lange, founding researcher at Sakana AI, discusses Shinka Evolve — a framework combining LLMs with evolutionary algorithms for open-ended program search. Topics include: why AlphaEvolve gets stuck (needs a human to hand it the right problem), MAP-Elites quality-diversity search, UCB bandits adaptively selecting between frontier models mid-run, concrete results in circle packing and competitive programming, the AI Scientist critique (current systems produce workshop-level slop), and predictions for how scientific research will transform in 5–20 years.</description>
+      <title>[Org: Meta AI Talks] Meta NeuroScientist SHOCKED Me: Scale Alone Won’t Create Consciousness!</title>
+      <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
+      <guid isPermaLink="false">wkHW2eV7mAs</guid>
+      <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
+      <author>Dr Brian Keating</author>
+      <description>&lt;img src="https://img.youtube.com/vi/wkHW2eV7mAs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dr Brian Keating · 51 min&lt;br/&gt;&lt;br/&gt;David Sussillo, research scientist at Meta Reality Labs and former Google Brain researcher, explains why scaling transformers alone won't produce conscious AI — and why studying the brain may be the only way forward. Topics: how LLM + GPU may cap AI's ceiling (the lock-in problem); what Meta's neural wristband is trying to solve; Rich Sutton's Bitter Lesson and whether the field is locked into a GPU-transformer paradigm; why complexity can't be reduced upward (More is Different); and the braided memoir 'Emergence' telling his path from foster care to the frontier of neuroscience and AI research.</description>
+    </item>
+    <item>
+      <title>[Channel: Y Combinator] How AI Is Unlocking Millions Of New Builders</title>
+      <link>https://www.youtube.com/watch?v=8SVocWnDHwE</link>
+      <guid isPermaLink="false">8SVocWnDHwE</guid>
+      <pubDate>Mon, 16 Mar 2026 13:00:14 +0000</pubDate>
+      <author>Y Combinator</author>
+      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 min&lt;br/&gt;&lt;br/&gt;Mukund and Madhav Jha, founders of Emergent — an AI platform that lets anyone build and ship production-ready software — join Y Combinator's Lightcone channel. In just eight months, users have created more than 7 million apps on Emergent, with the number doubling in the last 45 days. They discuss how they built one of the most powerful AI coding agents, why they focused on non-technical users, what it's like building for a global audience from India, and the future of niche apps, solo builders, and AI agency.</description>
     </item>
     <item>
       <title>[Channel: Zhang Xiaojun Podcast] 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42</title>
@@ -99,31 +75,7 @@
       <guid isPermaLink="false">iiBY0fqpThI</guid>
       <pubDate>Mon, 16 Mar 2026 08:03:12 +0000</pubDate>
       <author>Zhang Xiaojun Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/iiBY0fqpThI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 406 min&lt;br/&gt;&lt;br/&gt;In a 7-hour marathon interview, Saining Xie (NYU professor, AMI Labs co-founder with Yann LeCun) covers: why he believes Silicon Valley is trapped in the LLM paradigm, his two offers from Ilya Sutskever and why he turned both down, his research on world models and the Scaling Laws ceiling, his years at Google DeepMind and Meta FAIR, Diffusion Transformers, the meaning behind 「42」 in the interview title, and his perspective on human intelligence through the lens of the Diamond Sutra. Topics span academic research taste, the escape from Silicon Valley groupthink, and what AMI Labs is building.</description>
-    </item>
-    <item>
-      <title>[Topic: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
-      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
-      <guid isPermaLink="false">VAzryGwnJW8</guid>
-      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
-      <author>OpenAI</author>
-      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 min&lt;br/&gt;&lt;br/&gt;OpenAI健康负责人Nate Gross与健康AI研究负责人Karan Singhal，讨论AI在医疗领域的应用策略与最新进展。内容涵盖：OpenAI如何训练模型处理敏感健康问题、与医疗机构合作的挑战与模式、在临床实践中的具体应用案例，以及开发过程中最令他们惊讶的发现。</description>
-    </item>
-    <item>
-      <title>[Topic: Google DeepMind Talks] Navigating the Future of AI with Logan Kilpatrick | Google Deepmind</title>
-      <link>https://www.youtube.com/watch?v=swXyvtrz_nM</link>
-      <guid isPermaLink="false">swXyvtrz_nM</guid>
-      <pubDate>Tue, 17 Mar 2026 14:58:14 +0000</pubDate>
-      <author>Rishab in Cloud</author>
-      <description>&lt;img src="https://img.youtube.com/vi/swXyvtrz_nM/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Rishab in Cloud · 45 min&lt;br/&gt;&lt;br/&gt;Logan Kilpatrick from Google discusses the evolving AI development landscape, including: the transition from traditional PM roles to technical roles in AI teams, community engagement strategies for developer relations, Gemini 3.1 reasoning parameters and what they mean for developers, the evolution of RAG toward dynamic context retrieval, how AI tools are changing software engineering careers, and whether open source contributions will keep pace with AI-driven complexity.</description>
-    </item>
-    <item>
-      <title>[Topic: Meta AI Talks] Meta NeuroScientist SHOCKED Me: Scale Alone Won’t Create Consciousness!</title>
-      <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
-      <guid isPermaLink="false">wkHW2eV7mAs</guid>
-      <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
-      <author>Dr Brian Keating</author>
-      <description>&lt;img src="https://img.youtube.com/vi/wkHW2eV7mAs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dr Brian Keating · 51 min&lt;br/&gt;&lt;br/&gt;Dr. David Sussillo (Meta Reality Labs, Stanford, former Google Brain) explains why scaling transformers alone cannot produce conscious AI, and why studying the brain may be the only path forward. Topics include: the RNN vs. transformer debate, the FORCE algorithm for training RNNs, Meta's EMG wristband research, Rich Sutton's Bitter Lesson, why the GPU-transformer paradigm may be hitting a ceiling, and his memoir 「Emergence」 about his path from foster care to the frontier of neuroscience and AI research.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/iiBY0fqpThI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 406 min&lt;br/&gt;&lt;br/&gt;A 7-hour marathon conversation with Saining Xie (谢赛宁) at a New York café after a snowstorm in February 2026. Xie, a 1990-born Chinese-Canadian academic at NYU, formerly at Google DeepMind and Meta FAIR (co-author of Diffusion Transformers, with 100k+ citations), discusses: why Silicon Valley is deeply LLM-pilled and trapped; his research taste and philosophy; declining Ilya's offer twice; his relationships with Yann LeCun and Fei-Fei Li; leaving Silicon Valley; founding AMI Labs (Advanced Machine Intelligence Labs) — 25 people, $103M seed, $3.5B implied valuation; what world models are; the future of research; and the meaning of 42.</description>
     </item>
   </channel>
 </rss>
