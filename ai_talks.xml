@@ -4,7 +4,27 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Thu, 19 Mar 2026 17:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 01:57:56 +0000</lastBuildDate>
+    <item>
+      <title>[Jensen Huang] Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis</title>
+      <link>https://www.youtube.com/watch?v=gwW8GKwHB3I</link>
+      <guid isPermaLink="false">gwW8GKwHB3I</guid>
+      <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
+      <author>All-In Podcast</author>
+      <description>All-In Podcast · 66 min
+
+Jensen Huang joins the All-In Podcast to discuss Nvidia's strategic direction. Topics include: the acqui-hire of Groq and the inference chip market, Physical AI's $50T opportunity, the new operating system for modern AI computing, AI's PR crisis and how Nvidia refutes doomer narratives, Anthropic's communications mistakes, token allocation for employees, Karpathy's auto-research project, the agentic future, open source strategy, Iran/Taiwan supply chain risks, self-driving platform competition, datacenters in space, AI healthcare, robotics, and advice for young people navigating the AI era.</description>
+    </item>
+    <item>
+      <title>[Jensen Huang] Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy</title>
+      <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
+      <guid isPermaLink="false">xv7UVAfyebk</guid>
+      <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
+      <author>Morgan Stanley</author>
+      <description>Morgan Stanley · 43 min
+
+From the Morgan Stanley Technology, Media &amp; Telecom Conference in San Francisco, Nvidia CEO Jensen Huang explains how AI is reshaping the global economy. His core thesis: compute creates tokens, tokens power intelligence, and intelligence translates into economic output — at every level, from companies to countries. Huang also discusses Nvidia's role in the AI compute value chain and what the token economy means for the next phase of AI growth.</description>
+    </item>
     <item>
       <title>[Yann LeCun] "Perspectives on IA" : conf. de Yann LeCun, WinterWeek – Graduate School – Univ. Gustave Eiffel</title>
       <link>https://www.youtube.com/watch?v=nqDHPpKha_A</link>
