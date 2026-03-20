@@ -4,14 +4,14 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Fri, 20 Mar 2026 13:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 14:41:33 +0000</lastBuildDate>
     <item>
       <title>[Jensen Huang] Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy</title>
       <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
       <guid isPermaLink="false">xv7UVAfyebk</guid>
       <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
       <author>Morgan Stanley</author>
-      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;摩根士丹利科技、媒体与电信大会（TMT Conference）在旧金山举行，英伟达CEO黄仁勋出席并发表演讲，阐述AI如何重塑全球经济。核心观点：算力创造token，token驱动智能，智能转化为经济产出——从公司到国家层面均如此。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;From the Morgan Stanley Technology, Media &amp; Telecom Conference in San Francisco, Jensen Huang explains how AI is reshaping the global economy. Core insight: Compute creates tokens, tokens power intelligence, and intelligence translates into economic output — at every level, from companies to countries.</description>
     </item>
     <item>
       <title>[Jensen Huang] Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis</title>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">gwW8GKwHB3I</guid>
       <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
       <author>All-In Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;All-In Podcast完整节目文字稿。黄仁勋作为嘉宾参与录制，覆盖话题包括：收购Groq与推理算力爆发、全球最有价值公司的决策机制、物理AI的50万亿美元市场、OpenClaw的未来、AI的新操作系统、AI的公关危机与「末日论」反驳、员工期权分配、Karpathy的自主研究、代理未来、开源与全球扩散、伊朗/台湾供应链影响、自动驾驶平台、医疗AI、机器人。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;Jensen Huang joins the All-In Podcast to discuss: acquiring Groq and the inference explosion, decision making at the world's most valuable company, Physical AI's $50T market, OpenClaw's future, the new operating system for modern AI computing, AI's PR crisis, refuting doomer narratives, Anthropic's comms mistakes, revenue capacity, token allocation for employees, Karpathy's autoresearch, agentic future, open source, global diffusion, Iran/Taiwan supply chain impact, self-driving platform, datacenters in space, AI healthcare, robotics, OpenAI/Anthropic revenue potential, how to build an AI moat, advice to young people on excelling in the AI era.</description>
     </item>
     <item>
       <title>[Jensen Huang] NVIDIA CEO Jensen Huang GTC 2026 Full Keynote</title>
@@ -27,7 +27,7 @@
       <guid isPermaLink="false">jIviHI7fqyc</guid>
       <pubDate>Mon, 16 Mar 2026 21:53:36 +0000</pubDate>
       <author>Yahoo Finance</author>
-      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 min&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在加州圣何塞举行的GTC大会上发表年度主题演讲。英伟达近期频繁出手，包括收购AI推理芯片设计商Groq。大会同时宣布英伟达战略合作伙伴Nebius与Meta达成协议，2027年起将为Meta提供最高270亿美元的云计算容量。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 min&lt;br/&gt;&lt;br/&gt;Jensen Huang delivered his annual GTC keynote in San Jose, California. Key points: Nvidia's acqui-hire agreement with AI inference chip designer Groq, which may be integrated into Nvidia processors or offered as a new chip. Nvidia's strategic partner Nebius also reached a deal with Meta to provide up to $27 billion worth of capacity starting in 2027.</description>
     </item>
     <item>
       <title>[Jensen Huang] Jensen Huang On NVIDIA Stock, OpenClaw, AI Demand - NVDA Update</title>
@@ -35,7 +35,7 @@
       <guid isPermaLink="false">OMK2TydbF6g</guid>
       <pubDate>Wed, 18 Mar 2026 19:59:31 +0000</pubDate>
       <author>FinVid</author>
-      <description>&lt;img src="https://img.youtube.com/vi/OMK2TydbF6g/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;FinVid · 37 min&lt;br/&gt;&lt;br/&gt;黄仁勋与CNBC主持人Jim Cramer对话，讨论英伟达股票、OpenClaw、AI需求、中美H200芯片审批、供应链重启等话题。提到Blackwell Ultra快速上量、Rubin将在2026年推出、预计2026年下半年推出Groq 3 LPX、2026年底推出Rubin CPX、2027年推出Rubin Ultra、2028年推出Feynman。黄仁勋认为到2030年全球AI工厂建设将达3-4万亿美元。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/OMK2TydbF6g/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;FinVid · 37 min&lt;br/&gt;&lt;br/&gt;Jensen Huang speaks with CNBC's Jim Cramer about NVIDIA stock, OpenClaw, autonomous vehicles, big tech, physical AI, NemoClaw, Vera Rubin, NVIDIA's future, and the broader AI landscape. Key disclosures: NVIDIA has received US and China approval to sell H200 chips in China; China purchase orders are coming in; supply chain is working to restart H200 manufacturing. NVIDIA product roadmap: Blackwell Ultra ramping, Rubin on track for 2026, Groq 3 LPX expected H2 2026, Rubin CPX end of 2026, Rubin Ultra in 2027, Feynman in 2028. Huang believes there will be $3-4T global AI factory buildout through 2030.</description>
     </item>
     <item>
       <title>[Jensen Huang] LIVE: Nvidia CEO Jensen Huang Unveils AI Innovations | DRM News | AI1F</title>
@@ -43,7 +43,7 @@
       <guid isPermaLink="false">Yg0YQM0qk7w</guid>
       <pubDate>Tue, 17 Mar 2026 09:38:30 +0000</pubDate>
       <author>DRM News</author>
-      <description>&lt;img src="https://img.youtube.com/vi/Yg0YQM0qk7w/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;DRM News · 189 min&lt;br/&gt;&lt;br/&gt;黄仁勋在圣何塞英伟达AI大会上发表主题演讲，介绍GPU技术最新进展及AI驱动的未来计算创新。DRM News进行全程直播跟踪报道。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/Yg0YQM0qk7w/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;DRM News · 189 min&lt;br/&gt;&lt;br/&gt;Jensen Huang delivers the keynote address at Nvidia's AI conference in San Jose. The CEO unveiled the latest advancements in artificial intelligence, GPU technologies, and AI-driven innovations shaping the future of computing.</description>
     </item>
     <item>
       <title>[Org: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
@@ -51,7 +51,15 @@
       <guid isPermaLink="false">VAzryGwnJW8</guid>
       <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
       <author>OpenAI</author>
-      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 min&lt;br/&gt;&lt;br/&gt;OpenAI官方频道播客。OpenAI健康负责人Nate Gross与健康AI研究负责人Karan Singhal对谈，讨论AI如何帮助应对全球医疗系统面临的挑战：与医生合作训练模型处理敏感健康问题、构建患者和临床医生可用的新一代工具、与医院及医疗系统的合作落地案例。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 min&lt;br/&gt;&lt;br/&gt;OpenAI's Head of Health Dr. Nate Gross and Karan Singhal, who leads Health AI Research, discuss how AI can help address the biggest challenges in healthcare systems worldwide. Topics include: how OpenAI is training models to handle sensitive health questions in collaboration with physicians, how that foundation is unlocking a new generation of tools for patients, clinicians, and healthcare systems. Chapters cover origins of their interest in AI and healthcare, strategy for building AI tools for clinicians, training methods for health use cases, scoring on health evals, key challenges deploying AI in healthcare, collaboration with hospitals, practical everyday uses of AI health assistants, and biggest wow moments during development.</description>
+    </item>
+    <item>
+      <title>[Org: Meta AI Talks] Meta NeuroScientist SHOCKED Me: Scale Alone Won’t Create Consciousness!</title>
+      <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
+      <guid isPermaLink="false">wkHW2eV7mAs</guid>
+      <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
+      <author>Dr Brian Keating</author>
+      <description>&lt;img src="https://img.youtube.com/vi/wkHW2eV7mAs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dr Brian Keating · 51 min&lt;br/&gt;&lt;br/&gt;David Sussillo (Meta Reality Labs, Stanford) explains why scaling transformers alone won't produce conscious AI and why studying the brain may be the only way forward. He discusses how recurrent neural networks differ from transformer architectures, the FORCE algorithm for training RNNs, Meta's EMG wristband research, Rich Sutton's Bitter Lesson, and why the GPU-transformer paradigm may have hit a ceiling. Sussillo spent years training neural networks at Google Brain and now leads research at Meta Reality Labs. He is also the author of Emergence, a braided memoir about his path from foster care to the frontier of neuroscience and AI research.</description>
     </item>
     <item>
       <title>[Channel: Y Combinator] How AI Is Unlocking Millions Of New Builders</title>
@@ -59,15 +67,15 @@
       <guid isPermaLink="false">8SVocWnDHwE</guid>
       <pubDate>Mon, 16 Mar 2026 13:00:14 +0000</pubDate>
       <author>Y Combinator</author>
-      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 min&lt;br/&gt;&lt;br/&gt;Y Combinator旗下The Lightcone节目对话Emergent创始人Mukund和Madhav Jha。Emergent是一个让任何人无需编程基础即可构建并上线生产级软件的AI平台。上线八个月，用户已创建超过700万个应用，过去45天数量翻倍。话题包括：AI编程代理如何构建、为何聚焦非技术用户、如何从印度服务全球市场、SaaS是否已死、AI代理的未来。附完整章节。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 min&lt;br/&gt;&lt;br/&gt;Mukund and Madhav Jha, founders of Emergent, discuss their AI platform that lets anyone build and ship production-ready software. In just eight months, users have created more than 7 million apps on Emergent, with the number doubling in the last 45 days. They cover how they built one of the most powerful AI coding agents, why they focused on non-technical users, what it's like building for a global audience from India, getting ahead of the market, the pivot to non-technical users, why second movers can win in AI, building for production rather than prototypes, how Emergent hires and runs a lean team, whether SaaS is dead with the rise of personalized software, and the future of niche apps, solo builders and AI agency.</description>
     </item>
     <item>
-      <title>[Channel: Zhang Xiaojun Podcast] 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42</title>
-      <link>https://www.youtube.com/watch?v=iiBY0fqpThI</link>
-      <guid isPermaLink="false">iiBY0fqpThI</guid>
-      <pubDate>Mon, 16 Mar 2026 08:03:12 +0000</pubDate>
+      <title>[Channel: Zhang Xiaojun Podcast] A 7-hour marathon interview with Saining Xie: World Models, AMI Labs, Yann LeCun, Fei-Fei Li, and 42</title>
+      <link>https://www.youtube.com/watch?v=rIwgZWzUKm8</link>
+      <guid isPermaLink="false">rIwgZWzUKm8</guid>
+      <pubDate>Mon, 16 Mar 2026 03:30:41 +0000</pubDate>
       <author>Zhang Xiaojun Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/iiBY0fqpThI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 406 min&lt;br/&gt;&lt;br/&gt;2026年2月雪后，纽约布鲁克林，谢赛宁与张晓军开启了一场马拉松式访谈。谢赛宁与图灵奖得主杨立昆共同创立了AMI Labs（Advanced Machine Intelligence Labs），目前25人、已完成1.03亿美元种子轮融资、估值3.5亿美元。谢赛宁1990年生于上海，毕业于上海交通大学与加州大学圣地亚哥分校，现于纽约大学任教；曾于Google DeepMind担任研究科学家，更早在Meta FAIR实验室从事研究四年，论文总引用数超10万次。访谈涵盖：世界模型研究历程、两次拒绝Ilya、Yann LeCun与李飞飞往来、AMI创业始末、硅谷为何被LLM「催眠」、以及「42」的含义。附完整章节时间戳。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/rIwgZWzUKm8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 405 min&lt;br/&gt;&lt;br/&gt;Saining Xie's first-ever in-depth interview, a 7-hour marathon conversation. Xie, co-founder and Chief Science Officer of AMI Labs alongside Turing Award laureate Yann LeCun, discusses world models. AMI Labs has 25 people, zero products, yet raised a $1.03 billion Seed round at a $3.5 billion pre-money valuation — the largest Seed round in European history. Topics include: Xie's path from Shanghai Jiao Tong University to NYU faculty, his years at Google DeepMind and Meta FAIR, why Silicon Valley is 'hypnotized' by LLMs, his contrarian views on Scaling Laws ('there is significant water in language model scaling'), why language may be 'poison' for vision, his two refusals of Ilya Sutskever, memories of Yann LeCun and Fei-Fei Li, the genesis of AMI Labs, what a world model actually is, and the technological upheavals of the past 15 years. The interview was conducted in February 2026 in Brooklyn during a harsh New York winter.</description>
     </item>
   </channel>
 </rss>

@@ -4,22 +4,22 @@
     <title>AI大咖讲座精选 (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>精选AI思想领袖的长篇访谈与演讲，由Claude筛选整理。</description>
-    <lastBuildDate>Fri, 20 Mar 2026 13:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 14:41:33 +0000</lastBuildDate>
     <item>
-      <title>[Jensen Huang] 摩根士丹利TMT大会 | 黄仁勋谈AI、算力、Token与全球经济新秩序</title>
+      <title>[Jensen Huang] 摩根士丹利TMT大会2026 | 黄仁勋论AI、算力与新全球经济</title>
       <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
       <guid isPermaLink="false">xv7UVAfyebk</guid>
       <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
       <author>Morgan Stanley</author>
-      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 分钟&lt;br/&gt;&lt;br/&gt;摩根士丹利科技、媒体与电信大会（TMT Conference）在旧金山举行，英伟达CEO黄仁勋出席并发表演讲，阐述AI如何重塑全球经济。核心观点：算力创造token，token驱动智能，智能转化为经济产出——从公司到国家层面均如此。大会还汇集了全球最大科技、媒体和电信公司领袖的深度洞察。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 分钟&lt;br/&gt;&lt;br/&gt;在旧金山举行的摩根士丹利科技、媒体与电信大会上，黄仁勋阐释了AI如何重塑全球经济。其核心观点：算力创造代币，代币驱动智能，智能转化为经济产出——从企业到国家，层层传导。</description>
     </item>
     <item>
-      <title>[Jensen Huang] 黄仁勋详解英伟达未来：物理AI、代理崛起、推理爆发与AI公关危机</title>
+      <title>[Jensen Huang] 黄仁勋论英伟达未来、具身智能、Agent崛起与AI公关危机</title>
       <link>https://www.youtube.com/watch?v=gwW8GKwHB3I</link>
       <guid isPermaLink="false">gwW8GKwHB3I</guid>
       <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
       <author>All-In Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 分钟&lt;br/&gt;&lt;br/&gt;All-In Podcast完整节目文字稿。黄仁勋作为嘉宾参与录制，覆盖话题包括：收购Groq与推理算力爆发、全球最有价值公司的决策机制、物理AI的50万亿美元市场、OpenClaw的未来、AI的新操作系统、AI的公关危机与「末日论」反驳、员工期权分配、Karpathy的自主研究、代理未来、开源与全球扩散、伊朗/台湾供应链影响、自动驾驶平台、医疗AI、机器人等。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 分钟&lt;br/&gt;&lt;br/&gt;黄仁勋做客All-In Podcast，畅谈收购Groq与推理大爆发、世界最大公司的决策机制、规模50万亿美元的具身智能市场、OpenClaw的未来、现代AI计算的新操作系统、AI行业的公关危机与批评声音、OpenAI与Anthropic的收入潜力、如何构建AI护城河，以及给年轻人的AI时代建议。</description>
     </item>
     <item>
       <title>[Jensen Huang] 英伟达CEO黄仁勋GTC 2026完整主题演讲</title>
@@ -27,47 +27,55 @@
       <guid isPermaLink="false">jIviHI7fqyc</guid>
       <pubDate>Mon, 16 Mar 2026 21:53:36 +0000</pubDate>
       <author>Yahoo Finance</author>
-      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 分钟&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在加州圣何塞举行的GTC大会上发表年度主题演讲。英伟达近期频繁出手，包括收购AI推理芯片设计商Groq，这笔交易或将为英伟达带来新型芯片，或将Groq技术整合进自有处理器。大会同时宣布英伟达战略合作伙伴Nebius与Meta达成协议，2027年起将为Meta提供最高270亿美元的云计算容量。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 分钟&lt;br/&gt;&lt;br/&gt;黄仁勋在加州圣何塞发表GTC年度主题演讲。披露了与AI推理芯片商Groq的收购协议，暗示将把Groq技术整合进英伟达处理器。战略合作伙伴Nebius亦宣布与Meta达成协议，2027年起提供高达270亿美元的算力。</description>
     </item>
     <item>
-      <title>[Jensen Huang] 黄仁勋谈英伟达股票与OpenClaw：H200获准对华销售</title>
+      <title>[Jensen Huang] 黄仁勋接受Jim Cramer访谈：英伟达股票、OpenClaw与AI需求</title>
       <link>https://www.youtube.com/watch?v=OMK2TydbF6g</link>
       <guid isPermaLink="false">OMK2TydbF6g</guid>
       <pubDate>Wed, 18 Mar 2026 19:59:31 +0000</pubDate>
       <author>FinVid</author>
-      <description>&lt;img src="https://img.youtube.com/vi/OMK2TydbF6g/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;FinVid · 37 分钟&lt;br/&gt;&lt;br/&gt;黄仁勋与CNBC主持人Jim Cramer对话，讨论英伟达股票、OpenClaw、AI需求、中美H200芯片审批、供应链重启等话题。英伟达已获美国和中国批准开始在中国销售H200，正在接收中国客户订单并重启H200生产。黄仁勋还透露了完整的数据中心产品路线图：Blackwell Ultra快速上量、Rubin 2026年推出、2026年下半年Groq 3 LPX、2026年底Rubin CPX、2027年Rubin Ultra、2028年Feynman；并预计到2030年全球AI工厂建设规模将达3-4万亿美元。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/OMK2TydbF6g/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;FinVid · 37 分钟&lt;br/&gt;&lt;br/&gt;黄仁勋接受CNBC主持人Jim Cramer采访，讨论英伟达股票、OpenClaw、具身智能及未来产品路线图。透露英伟达已获中美两国批准向中国出售H200，中国客户正在下单，供应链全力恢复H200生产。路线图：Blackwell Ultra正在放量，Rubin将在2026年推出，2028年推出Feynman。黄仁勋预计到2030年全球AI工厂建设规模将达3至4万亿美元。</description>
     </item>
     <item>
-      <title>[Jensen Huang] 黄仁勋英伟达AI大会主题演讲：揭晓AI创新成果</title>
+      <title>[Jensen Huang] 英伟达AI大会黄仁勋主题演讲：AI创新发布</title>
       <link>https://www.youtube.com/watch?v=Yg0YQM0qk7w</link>
       <guid isPermaLink="false">Yg0YQM0qk7w</guid>
       <pubDate>Tue, 17 Mar 2026 09:38:30 +0000</pubDate>
       <author>DRM News</author>
-      <description>&lt;img src="https://img.youtube.com/vi/Yg0YQM0qk7w/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;DRM News · 189 分钟&lt;br/&gt;&lt;br/&gt;黄仁勋在圣何塞英伟达AI大会上发表主题演讲，介绍GPU技术最新进展及AI驱动的未来计算创新。 DRM News进行全程直播跟踪报道。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/Yg0YQM0qk7w/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;DRM News · 189 分钟&lt;br/&gt;&lt;br/&gt;黄仁勋在圣何塞英伟达AI大会上发表主题演讲，公布人工智能、GPU技术及AI驱动创新领域的最新进展，勾勒未来计算图景。</description>
     </item>
     <item>
-      <title>[Org: OpenAI Talks] OpenAI官方播客 | 用AI建设更好的医疗体系</title>
+      <title>[Org: OpenAI Talks] OpenAI播客第14期：AI如何改善医疗</title>
       <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
       <guid isPermaLink="false">VAzryGwnJW8</guid>
       <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
       <author>OpenAI</author>
-      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 分钟&lt;br/&gt;&lt;br/&gt;OpenAI官方频道播客。OpenAI健康负责人Nate Gross与健康AI研究负责人Karan Singhal对谈，讨论AI如何帮助应对全球医疗系统面临的挑战：与医生合作训练模型处理敏感健康问题、如何在健康评估中取得高分、部署AI到临床的核心挑战、与医院及医疗系统的合作落地案例、早期用户体验反馈等。附完整章节时间戳。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 分钟&lt;br/&gt;&lt;br/&gt;OpenAI健康负责人Dr. Nate Gross与健康AI研究负责人Karan Singhal，讨论AI如何帮助应对全球医疗系统面临的最大挑战。涵盖AI模型如何与医生合作处理敏感健康问题、为基础患者和临床医生解锁新一代工具，以及在实际部署中的最大挑战与突破时刻。</description>
     </item>
     <item>
-      <title>[Channel: Y Combinator] Y Combinator访谈：AI如何催生数百万新创业者</title>
+      <title>[Org: Meta AI Talks] Meta神经科学家大卫·苏西洛：Scale alone won't create consciousness</title>
+      <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
+      <guid isPermaLink="false">wkHW2eV7mAs</guid>
+      <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
+      <author>Dr Brian Keating</author>
+      <description>&lt;img src="https://img.youtube.com/vi/wkHW2eV7mAs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dr Brian Keating · 51 分钟&lt;br/&gt;&lt;br/&gt;Meta Reality Labs研究员、斯坦福大学教授大卫·苏西洛阐释为何单纯扩大Transformer规模无法产生意识，以及研究大脑可能是突破AI当前瓶颈的唯一出路。他比较了循环神经网络与Transformer架构的区别、自己开发的FORCE算法、Meta的EMG手环研究，以及为何GPU-Transformer范式可能已触及天花板。苏西洛曾在Google Brain工作多年，著有回忆录《Emergence》。</description>
+    </item>
+    <item>
+      <title>[Channel: Y Combinator] Y Combinator访谈：AI如何让数百万新人成为开发者</title>
       <link>https://www.youtube.com/watch?v=8SVocWnDHwE</link>
       <guid isPermaLink="false">8SVocWnDHwE</guid>
       <pubDate>Mon, 16 Mar 2026 13:00:14 +0000</pubDate>
       <author>Y Combinator</author>
-      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 分钟&lt;br/&gt;&lt;br/&gt;Y Combinator旗下The Lightcone节目对话Emergent创始人Mukund和Madhav Jha。Emergent是一个让任何人无需编程基础即可构建并上线生产级软件的AI平台。上线八个月，用户已创建超过700万个应用，过去45天数量翻倍。话题包括：AI编程代理的构建方式、为何聚焦非技术用户、如何从印度服务全球市场，以及AI时代个性化软件与AI代理的未来。附完整章节时间戳。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 分钟&lt;br/&gt;&lt;br/&gt;Emergent创始人Mukund和Madhav Jha做客Y Combinator，讲述他们如何打造让任何人无需技术背景就能构建和生产软件的AI平台。上线仅八个月，用户已创建超过700万个应用，过去45天内翻倍。他们分享了为何选择非技术用户为目标、如何从印度服务全球市场、SaaS是否已死以及AI代理的未来。</description>
     </item>
     <item>
-      <title>[Channel: Zhang Xiaojun Podcast] 对话谢赛宁：七小时马拉松访谈——世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42</title>
-      <link>https://www.youtube.com/watch?v=iiBY0fqpThI</link>
-      <guid isPermaLink="false">iiBY0fqpThI</guid>
-      <pubDate>Mon, 16 Mar 2026 08:03:12 +0000</pubDate>
+      <title>[Channel: Zhang Xiaojun Podcast] 谢赛宁7小时马拉松访谈：世界模型、AMI Labs、与杨立昆的创业故事</title>
+      <link>https://www.youtube.com/watch?v=rIwgZWzUKm8</link>
+      <guid isPermaLink="false">rIwgZWzUKm8</guid>
+      <pubDate>Mon, 16 Mar 2026 03:30:41 +0000</pubDate>
       <author>Zhang Xiaojun Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/iiBY0fqpThI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 406 分钟&lt;br/&gt;&lt;br/&gt;2026年2月雪后，纽约布鲁克林，谢赛宁与张晓军开启了一场马拉松式访谈。谢赛宁与图灵奖得主杨立昆共同创立了AMI Labs（Advanced Machine Intelligence Labs），目前25人、已完成1.03亿美元Seed轮融资、估值3.5亿美元。谢赛宁1990年生于上海，毕业于上海交通大学与加州大学圣地亚哥分校，现于纽约大学任教；曾于Google DeepMind担任研究科学家，更早在Meta FAIR实验室从事研究四年，论文总引用数超10万次。访谈涵盖：世界模型研究历程、两次拒绝Ilya、Yann LeCun与李飞飞往来、AMI创业始末、硅谷为何被LLM「催眠」、以及「42」的含义。附完整章节时间戳。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/rIwgZWzUKm8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 405 分钟&lt;br/&gt;&lt;br/&gt;图灵奖得主杨立昆的联合创始人谢赛宁首次深度访谈，时长7小时。谢赛宁现任纽约大学教授，曾在Google DeepMind和Meta FAIR工作，论文引用近10万次。他与杨立昆共同创立的AMI Labs仅25人、零产品，却以35亿美元投前估值融资10.3亿美元，创下欧洲历史上最大Seed轮。他犀利评价硅谷对LLM的迷恋、语言模型的Scaling Law「水分」、语言可能是视觉的「毒药」，并回顾了两次拒绝Ilya Sutskever的经历。2026年2月录制于布鲁克林暴雪中的公寓。</description>
     </item>
   </channel>
 </rss>
