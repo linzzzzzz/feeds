@@ -4,78 +4,122 @@
     <title>AI大咖讲座精选 (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>精选AI思想领袖的长篇访谈与演讲，由Claude筛选整理。</description>
-    <lastBuildDate>Fri, 20 Mar 2026 07:29:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 07:54:11 +0000</lastBuildDate>
     <item>
-      <title>[Geoffrey Hinton] 「没有人愿意谈论的AI前景 | Geoffrey Hinton」</title>
+      <title>[Yann LeCun] 「LLM是条死路」：AI之父Yann LeCun独家专访</title>
+      <link>https://www.youtube.com/watch?v=XnnnAx5lrx8</link>
+      <guid isPermaLink="false">XnnnAx5lrx8</guid>
+      <pubDate>Wed, 11 Mar 2026 15:49:47 +0000</pubDate>
+      <author>This Is The World</author>
+      <description>&lt;img src="https://img.youtube.com/vi/XnnnAx5lrx8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;This Is The World · 51 分钟&lt;br/&gt;&lt;br/&gt;主持人Matt Kawecki与图灵奖得主、AMI Labs联合创始人Yann LeCun进行独家对话。LeCun分享了他对大语言模型局限性的看法，以及AI研究未来方向的展望。</description>
+    </item>
+    <item>
+      <title>[Yann LeCun] 第3期：Yann LeCun谈大学与企业视角下的AI发展</title>
+      <link>https://www.youtube.com/watch?v=urHW2RwPaQQ</link>
+      <guid isPermaLink="false">urHW2RwPaQQ</guid>
+      <pubDate>Mon, 02 Mar 2026 09:01:13 +0000</pubDate>
+      <author>Stanford Digital Economy Lab</author>
+      <description>&lt;img src="https://img.youtube.com/vi/urHW2RwPaQQ/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Stanford Digital Economy Lab · 81 分钟&lt;br/&gt;&lt;br/&gt;Tom与纽约大学计算机科学教授、AMI Labs执行主席Yann LeCun对话。LeCun是2018年ACM图灵奖得主，他从跟随Geoff Hinton做博士后的经历讲起，回顾了在Facebook/Meta担任首席AI科学家的历程。身兼大学教授与大型AI公司首席科学家的双重身份，使他对技术进步与商业力量如何共同推动AI发展有着独特的见解。</description>
+    </item>
+    <item>
+      <title>[Yann LeCun] Yann LeCun在印度AI影响力峰会演讲</title>
+      <link>https://www.youtube.com/watch?v=_-ZtuR5JSFU</link>
+      <guid isPermaLink="false">_-ZtuR5JSFU</guid>
+      <pubDate>Fri, 20 Feb 2026 01:35:52 +0000</pubDate>
+      <author>India Today Global</author>
+      <description>&lt;img src="https://img.youtube.com/vi/_-ZtuR5JSFU/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;India Today Global · 80 分钟&lt;br/&gt;&lt;br/&gt;AI先驱Yann LeCun在印度AI影响力峰会上发表演讲。LeCun以其在深度学习和神经网络领域的开创性工作闻名，他分享了对人工智能未来、机器学习研究、开源AI和全球创新的见解。作为Meta首席AI科学家，他探讨了新兴技术、负责任的AI、大语言模型以及印度在全球AI生态系统中日益重要的角色。</description>
+    </item>
+    <item>
+      <title>[Yann LeCun] Yann LeCun：LLM有局限，AI并不危险，「世界模型」才是真正的赌注</title>
+      <link>https://www.youtube.com/watch?v=MEDkcmhtI90</link>
+      <guid isPermaLink="false">MEDkcmhtI90</guid>
+      <pubDate>Sat, 07 Mar 2026 03:31:15 +0000</pubDate>
+      <author>Synapse Conclave</author>
+      <description>&lt;img src="https://img.youtube.com/vi/MEDkcmhtI90/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Synapse Conclave · 41 分钟&lt;br/&gt;&lt;br/&gt;图灵奖得主Yann LeCun在Synapse Conclave与Shoma Chaudhury对谈。他解析了围绕大语言模型的炒作，解释了通往超级智能的路径分歧，讨论了AI是否危险、为何离开Meta，以及他通过「世界模型」让机器变得比人类更聪明的愿景。</description>
+    </item>
+    <item>
+      <title>[Yann LeCun] AI研究前沿研讨会：Demis Hassabis、Yoshua Bengio与Yann LeCun主题演讲</title>
+      <link>https://www.youtube.com/watch?v=XvnJq0nttCs</link>
+      <guid isPermaLink="false">XvnJq0nttCs</guid>
+      <pubDate>Wed, 18 Feb 2026 11:24:26 +0000</pubDate>
+      <author>IndiaAI</author>
+      <description>&lt;img src="https://img.youtube.com/vi/XvnJq0nttCs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;IndiaAI · 467 分钟&lt;br/&gt;&lt;br/&gt;由印度电子和信息技术部（MeitY）主办的「国家级AI研究研讨会」。这场里程碑式的活动汇聚了图灵奖得主Demis Hassabis、Yoshua Bengio和Yann LeCun的主题演讲，探讨AI如何催化科学突破以及全球研究界面临的重大挑战。</description>
+    </item>
+    <item>
+      <title>[Yann LeCun] Yann LeCun在居斯塔夫·埃菲尔大学的AI前沿讲座</title>
+      <link>https://www.youtube.com/watch?v=nqDHPpKha_A</link>
+      <guid isPermaLink="false">nqDHPpKha_A</guid>
+      <pubDate>Fri, 13 Mar 2026 08:23:20 +0000</pubDate>
+      <author>Université Gustave Eiffel</author>
+      <description>&lt;img src="https://img.youtube.com/vi/nqDHPpKha_A/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Université Gustave Eiffel · 126 分钟&lt;br/&gt;&lt;br/&gt;2018年图灵奖得主Yann LeCun于2026年2月11日在居斯塔夫·埃菲尔大学研究生院冬季学术周上发表题为「AI的前景展望」的讲座。LeCun是纽约大学教授、Meta前首席AI科学家、AMI Labs创始人。他介绍了其重启「预测性」AI研究的项目，以及基于「世界模型」的全新方法。</description>
+    </item>
+    <item>
+      <title>[Geoffrey Hinton] 无人愿谈的AI末日场景 | Geoffrey Hinton（The Diary Of A CEO）</title>
       <link>https://www.youtube.com/watch?v=mniyJXyK28c</link>
       <guid isPermaLink="false">mniyJXyK28c</guid>
       <pubDate>Sat, 14 Mar 2026 16:01:07 +0000</pubDate>
       <author>The Lumen Project</author>
-      <description>&lt;img src="https://img.youtube.com/vi/mniyJXyK28c/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The Lumen Project · 27 分钟&lt;br/&gt;&lt;br/&gt;「AI教父」Geoffrey Hinton解释了他倾注50年心血开发的神经网络技术，为何可能成为人类最大的风险之一。议题涵盖：自主武器、AI驱动的网络攻击、AI设计的生物病毒、通过AI信息茧房操纵选举、全球AI监管困境、致命性自主武器，以及超级智能机器超越人类控制的可能性。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/mniyJXyK28c/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The Lumen Project · 27 分钟&lt;br/&gt;&lt;br/&gt;被誉为「AI教父」的Geoffrey Hinton在The Diary of a CEO节目中探讨人工智能的风险。在五十多年致力于构建推动当今AI革命的神经网络技术之后，Hinton解释了为什么他毕生研究的技术可能成为人类最大的威胁之一。话题涵盖自主武器、AI驱动的网络攻击、超级智能机器的可能性，以及人类能否保持控制权。</description>
     </item>
     <item>
-      <title>[Jensen Huang] 「摩根士丹利TMT大会 | 黄仁勋谈AI、算力与新全球经济」</title>
+      <title>[Jensen Huang] 摩根士丹利TMT大会2026 | 黄仁勋谈AI、算力、Token与全球新经济</title>
       <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
       <guid isPermaLink="false">xv7UVAfyebk</guid>
       <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
       <author>Morgan Stanley</author>
-      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 分钟&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在摩根士丹利科技、媒体与电信大会上发表演讲，核心论点：算力创造代币，代币驱动智能，智能转化为从企业到国家的各级经济产出。黄仁勋阐述AI如何重塑全球经济格局。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 分钟&lt;br/&gt;&lt;br/&gt;在旧金山摩根士丹利科技、媒体与电信大会上，英伟达CEO黄仁勋阐述AI如何重塑全球经济。他的核心洞见：算力创造Token，Token驱动智能，智能转化为经济产出——从企业到国家，各个层面皆是如此。</description>
     </item>
     <item>
-      <title>[Jensen Huang] 「黄仁勋对话All-In：英伟达未来、Physical AI与Agent时代」</title>
+      <title>[Jensen Huang] 黄仁勋：英伟达的未来、物理AI、Agent时代、推理爆发与AI公关危机</title>
       <link>https://www.youtube.com/watch?v=gwW8GKwHB3I</link>
       <guid isPermaLink="false">gwW8GKwHB3I</guid>
       <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
       <author>All-In Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 分钟&lt;br/&gt;&lt;br/&gt;黄仁勋做客All-In Podcast，涵盖广泛议题：收购Groq与推理爆发、世界最高市值公司的决策模式、Physical AI达50万亿美元的市场机遇、AI公关危机与反驳末日论调、Anthropic的沟通失误、员工代币分配、Karpathy的自动研究、Agent化未来、开源与全球扩散、伊朗/台湾供应链影响；自动驾驶平台、AI医疗与机器人；给年轻人在AI时代的成长建议。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 分钟&lt;br/&gt;&lt;br/&gt;黄仁勋做客All-In Podcast，讨论英伟达的未来。话题涵盖：收购Groq与推理爆发、全球最有价值公司的决策方式、物理AI的50万亿美元市场、OpenClaw的未来、AI的公关危机与反驳末日论、收入前景、Agent化未来、开源与全球扩散、自动驾驶平台、太空数据中心、AI医疗、机器人，以及对年轻人在AI时代的建议。</description>
     </item>
     <item>
-      <title>[Jensen Huang] 「英伟达CEO黄仁勋GTC 2026完整主题演讲」</title>
+      <title>[Jensen Huang] 英伟达CEO黄仁勋GTC 2026完整主题演讲</title>
       <link>https://www.youtube.com/watch?v=jIviHI7fqyc</link>
       <guid isPermaLink="false">jIviHI7fqyc</guid>
       <pubDate>Mon, 16 Mar 2026 21:53:36 +0000</pubDate>
       <author>Yahoo Finance</author>
-      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 分钟&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在加州圣何塞发表年度GTC主题演讲，涵盖Blackwell架构详情、新型推理芯片、机器人技术进展，以及与AI云服务商Nebius达成的270亿美元合作（2027年起为Meta提供算力）。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 分钟&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在加州圣何塞发表GTC 2026年度主题演讲。演讲正值英伟达近期一系列交易之际，包括对AI推理芯片设计公司Groq的收购合并协议。此外还涉及英伟达战略合作伙伴Nebius与Meta达成的自2027年起提供高达270亿美元算力的协议。</description>
     </item>
     <item>
-      <title>[Org: OpenAI Talks] 「OpenAI Podcast Ep.14：AI如何革新医疗健康」</title>
+      <title>[Org: OpenAI Talks] 用AI改善医疗 — OpenAI播客第14期</title>
       <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
       <guid isPermaLink="false">VAzryGwnJW8</guid>
       <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
       <author>OpenAI</author>
-      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 分钟&lt;br/&gt;&lt;br/&gt;OpenAI健康负责人Dr. Nate Gross与健康AI研究负责人Karan Singhal做客OpenAI播客，讨论AI在医疗领域的应用：如何在与医生的合作中训练AI处理敏感健康问题；这一基础如何催生面向患者、临床医生和医疗系统的新一代工具；AI在医疗部署中面临的核心挑战；与医院的合作；AI健康助手在日常中的实际应用。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 分钟&lt;br/&gt;&lt;br/&gt;OpenAI健康负责人Nate Gross博士与健康AI研究负责人Karan Singhal讨论AI如何帮助解决医疗领域最大的挑战。他们介绍了OpenAI如何与医生合作训练模型来处理敏感的健康问题，以及这一基础如何为患者、临床医生和医疗系统开启新一代工具。</description>
     </item>
     <item>
-      <title>[Org: Google DeepMind Talks] 「Enformer：从DNA序列预测基因表达，DeepMind研究员Žiga Avsec专访」</title>
-      <link>https://www.youtube.com/watch?v=HWU5a0VCd5c</link>
-      <guid isPermaLink="false">HWU5a0VCd5c</guid>
-      <pubDate>Sun, 15 Mar 2026 08:43:00 +0000</pubDate>
-      <author>the bioinformatics chat</author>
-      <description>&lt;img src="https://img.youtube.com/vi/HWU5a0VCd5c/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;the bioinformatics chat · 60 分钟&lt;br/&gt;&lt;br/&gt;DeepMind研究员、Enformer论文合著者Žiga Avsec做客bioinformatics chat，讨论学术界与工业界研究的差异；Enformer模型如何从DNA序列预测基因表达；该模型相较此前工作的突破；此类模型对基因组学研究的未来潜力；以及现代深度学习库的实践应用。</description>
-    </item>
-    <item>
-      <title>[Org: Meta AI Talks] 「Meta神经科学家：单纯Scaling无法产生意识，脑研究才是唯一出路」</title>
+      <title>[Org: Meta AI Talks] Meta神经科学家：光靠规模扩展无法创造意识</title>
       <link>https://www.youtube.com/watch?v=wkHW2eV7mAs</link>
       <guid isPermaLink="false">wkHW2eV7mAs</guid>
       <pubDate>Tue, 17 Mar 2026 16:26:32 +0000</pubDate>
       <author>Dr Brian Keating</author>
-      <description>&lt;img src="https://img.youtube.com/vi/wkHW2eV7mAs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dr Brian Keating · 51 分钟&lt;br/&gt;&lt;br/&gt;Meta Reality Labs研究科学家、前Google Brain研究员David Sussillo解释为何单纯扩大Transformer规模不会产生有意识的AI，以及为何研究大脑可能是突破当前AI局限的唯一路径。议题涵盖：LLM+GPU范式可能存在的上限（锁定问题）；Meta神经手环试图解决的问题；Rich Sutton的「苦涩教训」与GPU-Transformer范式困局；复杂性为何无法向上简化（「更多即不同」）；以及他从寄养系统走到神经科学与AI前沿的回忆录《Emergence》。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/wkHW2eV7mAs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dr Brian Keating · 51 分钟&lt;br/&gt;&lt;br/&gt;Meta Reality Labs研究员、斯坦福大学的David Sussillo博士解释了为什么仅靠扩展Transformer无法产生有意识的AI，以及为什么研究大脑可能是唯一的出路。话题包括：规模扩展为何不足以产生意识、循环神经网络与Transformer的区别、训练RNN的FORCE算法、Meta的EMG腕带项目、Rich Sutton的「苦涩的教训」，以及为什么研究大脑可能是突破AI当前局限的唯一途径。</description>
     </item>
     <item>
-      <title>[Channel: Y Combinator] 「AI正在催生数百万新创造者：YC对话Emergent创始人」</title>
+      <title>[Channel: Y Combinator] AI如何释放数百万新创造者的潜力</title>
       <link>https://www.youtube.com/watch?v=8SVocWnDHwE</link>
       <guid isPermaLink="false">8SVocWnDHwE</guid>
       <pubDate>Mon, 16 Mar 2026 13:00:14 +0000</pubDate>
       <author>Y Combinator</author>
-      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 分钟&lt;br/&gt;&lt;br/&gt;AI平台Emergent的创始人Mukund和Madhav Jha做客YC Lightcone频道。Emergent让任何人无需编程基础即可构建和生产部署软件，上线仅8个月用户已创建超过700万个应用，过去45天翻了一倍。他们讲述如何打造了最强大的AI编程智能体之一、为何选择非技术用户作为目标群体、从印度面向全球市场开发的经历，以及小众应用、独立开发者和AI代理的未来图景。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 分钟&lt;br/&gt;&lt;br/&gt;在Y Combinator的Lightcone节目中，Emergent创始人Mukund和Madhav Jha介绍了他们的AI平台——让任何人都能构建并发布生产级软件。仅八个月，用户已在Emergent上创建了超过700万个应用，最近45天更是翻倍增长。他们讨论了如何打造最强大的AI编程智能体之一、为何专注非技术用户，以及从印度面向全球用户开发产品的体验。</description>
     </item>
     <item>
-      <title>[Channel: Zhang Xiaojun Podcast] 「7小时马拉松对话谢赛宁：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya」</title>
-      <link>https://www.youtube.com/watch?v=iiBY0fqpThI</link>
-      <guid isPermaLink="false">iiBY0fqpThI</guid>
-      <pubDate>Mon, 16 Mar 2026 08:03:12 +0000</pubDate>
+      <title>[Channel: Zhang Xiaojun Podcast] 对谢赛宁的7小时马拉松访谈：世界模型、AMI Labs、Yann LeCun、李飞飞和42</title>
+      <link>https://www.youtube.com/watch?v=rIwgZWzUKm8</link>
+      <guid isPermaLink="false">rIwgZWzUKm8</guid>
+      <pubDate>Mon, 16 Mar 2026 03:30:41 +0000</pubDate>
       <author>Zhang Xiaojun Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/iiBY0fqpThI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 406 分钟&lt;br/&gt;&lt;br/&gt;2026年2月纽约一场暴雪后，小杰与谢赛宁在布鲁克林一栋嘈杂楼房里进行了这场7小时马拉松式访谈。谢赛宁，1990年生，华人科学家，现为纽约大学兼职教授，曾任职于Google DeepMind和Meta FAIR（ Diffusion Transformers论文合著者，总引用超10万次）。议题涵盖：为何硅谷深陷LLM泥潭无法自拔；研究品味与哲学；两次拒绝Ilya的经过；与杨立昆、李飞飞的往来；离开硅谷的思考；创立AMI Labs的始末（25人，1.03亿美元种子轮，估值35亿美元）；世界模型究竟是什么；以及数字42的含义。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/rIwgZWzUKm8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 405 分钟&lt;br/&gt;&lt;br/&gt;对AMI Labs联合创始人兼首席科学官谢赛宁的7小时深度访谈。谢赛宁与图灵奖得主Yann LeCun共同创立AMI Labs，致力于「世界模型」研究。公司以25人、零产品的状态完成10.3亿美元种子轮融资，投前估值35亿美元，创下欧洲历史最大种子轮纪录。
+
+谢赛宁1990年出生，毕业于上海交通大学与加州大学圣地亚哥分校，现任纽约大学教授。创业前曾任Google DeepMind研究科学家，更早在Meta的FAIR实验室工作四年，以共同提出Diffusion Transformers（DiT）闻名。
+
+这是谢赛宁的首次深度访谈。话题横跨15年AI技术变革：为何LLM不是「苦涩的教训」的成功案例、语言模型Scaling Law的「水分」、语言对视觉研究的「污染」、与何恺明的友谊、两次拒绝Ilya Sutskever、与杨立昆和李飞飞的往事、什么是世界模型、AMI Labs的创立始末，以及为何「硅谷已被LLM催眠」。</description>
     </item>
   </channel>
 </rss>
