@@ -4,110 +4,158 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Sat, 21 Mar 2026 09:30:12 +0000</lastBuildDate>
-    <item>
-      <title>[Demis Hassabis] Demis Hassabis (Google DeepMind) — Su Teoría de la Mente 🪿</title>
-      <link>https://www.youtube.com/watch?v=sZ06Bq92jtw</link>
-      <guid isPermaLink="false">sZ06Bq92jtw</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <author>amVizion</author>
-      <description>&lt;img src="https://img.youtube.com/vi/sZ06Bq92jtw/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;amVizion · 98 min&lt;br/&gt;&lt;br/&gt;Demis Hassabis, Google DeepMind CEO, discusses theory of mind in the context of AI research.</description>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 10:23:40 +0000</lastBuildDate>
     <item>
       <title>[Yann LeCun] Yann LeCun on Why Open Source AI Is the Only Path to Sovereignty | AI Alliance Fireside Chat</title>
       <link>https://www.youtube.com/watch?v=Gw1azCJpsPw</link>
       <guid isPermaLink="false">Gw1azCJpsPw</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 16:19:58 +0000</pubDate>
       <author>The AI Alliance</author>
-      <description>&lt;img src="https://img.youtube.com/vi/Gw1azCJpsPw/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The AI Alliance · 28 min&lt;br/&gt;&lt;br/&gt;Yann LeCun, Chief AI Scientist at Meta, speaks at the AI Alliance Fireside Chat on why open source AI is essential for technological sovereignty.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/Gw1azCJpsPw/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The AI Alliance · 28 min&lt;br/&gt;&lt;br/&gt;Meta前首席AI科学家杨立昆（Yann LeCun）在印度新德里举行的AI联盟全球领导力招待会上，与AI联盟CEO Anthony Annunziata及Mozilla的Raffi Krikorian进行炉边对话，阐述开源AI与数字主权的未来。杨立昆提出：我们的数字生活将很快由AI助手代理——若这些系统仅由美国和中国的少数公司控制，民主、文化多样性和语言代表性都将面临风险。他提议建立一个基于联邦学习的国际联盟，各国和机构共同参与训练全球开源模型，而不交换各自的数据。讨论还涉及为何当前最佳开源模型都来自中国、LLM如何不可避免地成为核心基础设施、开源AI开发者体验差距，以及政府、非营利组织和行业如何弥补这一差距。</description>
+    </item>
+    <item>
+      <title>[Yann LeCun] The Architecture of Understanding:</title>
+      <link>https://www.youtube.com/watch?v=28d1tZ1ShVo</link>
+      <guid isPermaLink="false">28d1tZ1ShVo</guid>
+      <pubDate>Tue, 17 Mar 2026 08:15:24 +0000</pubDate>
+      <author>APPLIED ENGLISH LABS</author>
+      <description>&lt;img src="https://img.youtube.com/vi/28d1tZ1ShVo/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;APPLIED ENGLISH LABS · 50 min&lt;br/&gt;&lt;br/&gt;AI先驱杨立昆与DeepMind的Adam Brown就人工智能的本质与未来轨迹展开辩论。虽然大语言模型在编程和数学方面表现出色，但两位专家对这类系统是否真正拥有深层理解能力持有不同看法。杨立昆认为，当前的模型因其缺乏对物理世界的体验而受到根本限制，与人类幼儿的高效学习形成鲜明对比。Brown则指出，硅基网络中出现的涌现智能表明，超人类速度可能最终导向有意识的机器。尽管对技术饱和度持不同意见，两位都认为AI将成为推动人类创造力和科学进步的有力工具，并强调开源平台对于确保AI成为多样、安全、可控的全球利益至关重要。</description>
+    </item>
+    <item>
+      <title>[Yoshua Bengio] Panel: The International AI Safety Report | IASEAI '26</title>
+      <link>https://www.youtube.com/watch?v=TJVO0s3StZM</link>
+      <guid isPermaLink="false">TJVO0s3StZM</guid>
+      <pubDate>Mon, 16 Mar 2026 00:47:40 +0000</pubDate>
+      <author>International Association for Safe &amp; Ethical AI</author>
+      <description>&lt;img src="https://img.youtube.com/vi/TJVO0s3StZM/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;International Association for Safe &amp; Ethical AI · 49 min&lt;br/&gt;&lt;br/&gt;深度学习先驱Yoshua Bengio（蒙特利尔大学 / LawZero）、约翰霍普金斯大学的Gillian Hadfield、都柏林大学学院的Susan Leavy在IASEAI '26大会上讨论国际AI安全报告的关键发现。报告是汇聚全球最新科学认知的重大成果，涵盖先进AI风险与缓解策略。《经济学人》Kenneth Cukier主持，探讨新兴AI能力、政策制定者面临的「证据差距」、AI治理为何可能需要新的制度性方法以及更强的问责机制。讨论还涉及AI系统如何重塑民主制度、全球权力格局和人类自主性，以及政府、企业和公民社会今天可以采取哪些行动来应对快速演变的风险。</description>
     </item>
     <item>
       <title>[Andrej Karpathy] Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <link>https://www.youtube.com/watch?v=kwSVtQ7dziU</link>
       <guid isPermaLink="false">kwSVtQ7dziU</guid>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 13:27:35 +0000</pubDate>
       <author>No Priors: AI, Machine Learning, Tech, &amp; Startups</author>
-      <description>&lt;img src="https://img.youtube.com/vi/kwSVtQ7dziU/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;No Priors: AI, Machine Learning, Tech, &amp; Startups · 67 min&lt;br/&gt;&lt;br/&gt;Andrej Karpathy discusses code agents, AutoResearch, and his concept of the 'loopy era' of AI development.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/kwSVtQ7dziU/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;No Priors: AI, Machine Learning, Tech, &amp; Startups · 67 min&lt;br/&gt;&lt;br/&gt;Andrej Karpathy与Sarah Guo对话，探讨模型现状、工程与教育的未来、对就业的影响，以及他的AutoResearch项目——AI智能体如何自主完成实验、数据收集和优化，无需人类参与。主要话题包括：编程智能体现状与极限；AutoResearch如何实现AI研究闭环；自然语言编程的二阶效应；AI时代的相关技能；模型分化；人机协作界面的构建；就业市场数据分析；开源与闭源模型；自主机器人；MicroGPT与AI教育。</description>
     </item>
     <item>
       <title>[Jensen Huang] Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis</title>
       <link>https://www.youtube.com/watch?v=gwW8GKwHB3I</link>
       <guid isPermaLink="false">gwW8GKwHB3I</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 18:27:34 +0000</pubDate>
       <author>All-In Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;Jensen Huang joins the All-In Podcast to discuss Nvidia's future direction, Physical AI, the rise of AI agents, inference scaling, and AI PR challenges.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/gwW8GKwHB3I/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;All-In Podcast · 66 min&lt;br/&gt;&lt;br/&gt;黄仁勋做客All-In Podcast，讨论英伟达的战略决策、AI推理芯片公司Groq的收购、物理AI的50万亿美元市场、OpenClaw与AI工厂、全球供应链影响、自动驾驶平台、AI医疗与机器人等话题。还讨论了Karpathy的AutoResearch、OpenAI与Anthropic的收入潜力、如何构建AI护城河，以及对年轻人的建议。</description>
     </item>
     <item>
       <title>[Jensen Huang] NVIDIA CEO Jensen Huang GTC 2026 Full Keynote</title>
       <link>https://www.youtube.com/watch?v=jIviHI7fqyc</link>
       <guid isPermaLink="false">jIviHI7fqyc</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 21:53:36 +0000</pubDate>
       <author>Yahoo Finance</author>
-      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 min&lt;br/&gt;&lt;br/&gt;Full replay of NVIDIA CEO Jensen Huang's GTC 2026 keynote, covering the company's latest AI hardware announcements, GPU roadmap, and vision for AI computing.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/jIviHI7fqyc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Yahoo Finance · 140 min&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在加州圣何塞GTC大会上发表年度主题演讲，宣布收购AI推理芯片设计商Groq、与Meta达成高达270亿美元的云计算协议，以及公司在AI领域的最新战略布局。</description>
     </item>
     <item>
       <title>[Jensen Huang] Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy</title>
       <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
       <guid isPermaLink="false">xv7UVAfyebk</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 22:17:47 +0000</pubDate>
       <author>Morgan Stanley</author>
-      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;Jensen Huang speaks at the Morgan Stanley TMT Conference 2026 on AI, compute, tokens, and the new global economy driven by AI infrastructure.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/xv7UVAfyebk/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Morgan Stanley · 43 min&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在摩根士丹利科技、媒体与电信大会上阐述AI如何重塑全球经济。他的核心观点：计算产生Token，Token驱动智能，智能转化为经济产出——从公司到国家层面概莫能外。</description>
     </item>
     <item>
-      <title>[Jensen Huang] LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)</title>
-      <link>https://www.youtube.com/watch?v=YaakcHNtUEw</link>
-      <guid isPermaLink="false">YaakcHNtUEw</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <author>Alex Finn</author>
-      <description>&lt;img src="https://img.youtube.com/vi/YaakcHNtUEw/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Alex Finn · 156 min&lt;br/&gt;&lt;br/&gt;Live full broadcast of Jensen Huang's GTC 2026 keynote with all major Nvidia announcements, including next-generation AI chips and robotics initiatives.</description>
+      <title>[Jensen Huang] NVIDIA GTC Keynote 2026</title>
+      <link>https://www.youtube.com/watch?v=jw_o0xr8MWU</link>
+      <guid isPermaLink="false">jw_o0xr8MWU</guid>
+      <pubDate>Mon, 16 Mar 2026 20:49:08 +0000</pubDate>
+      <author>NVIDIA</author>
+      <description>&lt;img src="https://img.youtube.com/vi/jw_o0xr8MWU/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;NVIDIA · 139 min&lt;br/&gt;&lt;br/&gt;英伟达创始人兼CEO黄仁勋在GTC 2026主题演讲中发布AI与加速计算领域的最新突破。涵盖主题：Token是AI的基石；CUDA二十年；GeForce与DLSS 5；AI推理拐点到来；AI工厂成为AI时代工业基础设施；Vera Rubin芯片；Groq LPX；NemoClaw与OpenClaw；物理AI与机器人时代；黄仁勋与Olaf机器人登台。</description>
     </item>
     <item>
-      <title>[Org: Anthropic Talks] Anthropic’s Claude Cowork Might Be the Closest Thing to AGI Yet — Felix Rieseberg of Anthropic</title>
-      <link>https://www.youtube.com/watch?v=ZpZ7lFoWaT8</link>
-      <guid isPermaLink="false">ZpZ7lFoWaT8</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <author>Latent Space</author>
-      <description>&lt;img src="https://img.youtube.com/vi/ZpZ7lFoWaT8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Latent Space · 88 min&lt;br/&gt;&lt;br/&gt;Felix Rieseberg of Anthropic joins Latent Space to discuss Claude Cowork, Anthropic's approach to AI-powered coding environments, and why it may be the closest thing to AGI yet.</description>
+      <title>[Jensen Huang] LIVE: Nvidia CEO Jensen Huang Keynote at AI Conference 2026 | AI1E</title>
+      <link>https://www.youtube.com/watch?v=Z_5PKPgUQmg</link>
+      <guid isPermaLink="false">Z_5PKPgUQmg</guid>
+      <pubDate>Tue, 17 Mar 2026 09:44:52 +0000</pubDate>
+      <author>DWS News</author>
+      <description>&lt;img src="https://img.youtube.com/vi/Z_5PKPgUQmg/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;DWS News · 190 min&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在AI Conference 2026大会上发表主题演讲，公布人工智能领域的最新突破、技术和未来规划。</description>
     </item>
     <item>
-      <title>[Org: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
-      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
-      <guid isPermaLink="false">VAzryGwnJW8</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <author>OpenAI</author>
-      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 min&lt;br/&gt;&lt;br/&gt;OpenAI Podcast Episode 14: OpenAI researchers discuss building AI systems specifically designed to improve healthcare outcomes, including diagnostics and treatment optimization.</description>
+      <title>[Jensen Huang] Nvidia CEO Jensen Huang Delivers Keynote at Major AI Conference | DRM News | AI1F</title>
+      <link>https://www.youtube.com/watch?v=Ckta1dqqySw</link>
+      <guid isPermaLink="false">Ckta1dqqySw</guid>
+      <pubDate>Mon, 16 Mar 2026 21:02:01 +0000</pubDate>
+      <author>DRM News</author>
+      <description>&lt;img src="https://img.youtube.com/vi/Ckta1dqqySw/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;DRM News · 62 min&lt;br/&gt;&lt;br/&gt;英伟达CEO黄仁勋在圣何塞AI大会上发表主题演讲，聚焦人工智能创新、数据中心和下一代芯片等塑造全球科技行业未来的关键技术。</description>
     </item>
     <item>
-      <title>[Org: Google DeepMind Talks] Navigating the Future of AI with Logan Kilpatrick | Google Deepmind</title>
-      <link>https://www.youtube.com/watch?v=swXyvtrz_nM</link>
-      <guid isPermaLink="false">swXyvtrz_nM</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <author>Rishab in Cloud</author>
-      <description>&lt;img src="https://img.youtube.com/vi/swXyvtrz_nM/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Rishab in Cloud · 45 min&lt;br/&gt;&lt;br/&gt;Logan Kilpatrick of Google DeepMind discusses the future trajectory of AI, the role of large language models, and the next frontiers in AI research.</description>
-    </item>
-    <item>
-      <title>[Channel: Dwarkesh Patel] Terence Tao – AI is still brute force but it will revolutionize experimental math</title>
+      <title>[Channel: Dwarkesh Patel] Terence Tao – How the world’s top mathematician uses AI</title>
       <link>https://www.youtube.com/watch?v=Q8Fkpi18QXU</link>
       <guid isPermaLink="false">Q8Fkpi18QXU</guid>
-      <pubDate>Fri, 20 Mar 2026 17:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 16:29:48 +0000</pubDate>
       <author>Dwarkesh Patel</author>
-      <description>&lt;img src="https://img.youtube.com/vi/Q8Fkpi18QXU/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dwarkesh Patel · 84 min&lt;br/&gt;&lt;br/&gt;Terence Tao discusses how current AI still relies heavily on brute-force computation, but argues it will nonetheless revolutionize experimental mathematics by enabling entirely new forms of mathematical discovery. The episode opens with Kepler's laws of planetary motion as a historical example of surprising mathematical patterns emerging from data.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/Q8Fkpi18QXU/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dwarkesh Patel · 84 min&lt;br/&gt;&lt;br/&gt;菲尔兹奖得主、华裔数学家陶哲轩（Terence Tao）做客Dwarkesh Patel节目，讨论这位世界顶级数学家如何运用AI。开场以开普勒发现行星定律的惊人故事切入：人们常说AI因验证循环紧密会在科学发现上快速进展，但开普勒发现日心说的故事表明，正确理论的验证循环可能长达数十年甚至上千年。在AI时代，什么才是真正的「理解」，人类与AI在数学研究中的协作边界在哪里。</description>
     </item>
     <item>
       <title>[Channel: Y Combinator] How AI Is Unlocking Millions Of New Builders</title>
       <link>https://www.youtube.com/watch?v=8SVocWnDHwE</link>
       <guid isPermaLink="false">8SVocWnDHwE</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 13:00:14 +0000</pubDate>
       <author>Y Combinator</author>
-      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 min&lt;br/&gt;&lt;br/&gt;Mukund and Madhav Jha, founders of Emergent, explain how their AI platform enables anyone to build and deploy production-ready software in a short timeframe, dramatically lowering the barrier to software creation.</description>
+      <description>&lt;img src="https://img.youtube.com/vi/8SVocWnDHwE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Y Combinator · 40 min&lt;br/&gt;&lt;br/&gt;Y Combinator旗下节目The Lightcone对话Emergent创始人Mukund和Madhav Jha。Emergent是一个让任何人构建和发布生产级软件的AI平台，仅8个月内用户已创建超过700万个应用，近45天数量翻倍。讨论涵盖：如何构建最强大的AI编程智能体、为何专注非技术用户、如何从印度为全球用户构建产品、SaaS的终结与个性化软件的崛起。</description>
     </item>
     <item>
       <title>[Channel: Zhang Xiaojun Podcast] 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42</title>
       <link>https://www.youtube.com/watch?v=iiBY0fqpThI</link>
       <guid isPermaLink="false">iiBY0fqpThI</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 08:03:12 +0000</pubDate>
       <author>Zhang Xiaojun Podcast</author>
-      <description>&lt;img src="https://img.youtube.com/vi/iiBY0fqpThI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 406 min&lt;br/&gt;&lt;br/&gt;7小时马拉松访谈。2026年春节，纽约经历了一场暴雪。谢赛宁（Xie Sain）与张晓钧展开深度对话，涵盖世界模型（World Models）、AMI Labs、逃离硅谷的经历、两次拒绝Ilya Sutskever的邀请、与杨立昆和李飞飞的渊源与42的意义。</description>
+      <description>&lt;img src="https://img.youtube.com/vi/iiBY0fqpThI/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Zhang Xiaojun Podcast · 406 min&lt;br/&gt;&lt;br/&gt;2026年春节，中国人形机器人在春晚登台；与此同时，纽约正经历近几年来最严酷的寒冬。在布鲁克林一间凌乱的公寓里，谢赛宁（Saining Xie）与张晓军开启了这场马拉松式对话。谢赛宁与图灵奖得主杨立昆共同创立了AMI Labs（Advanced Machine Intelligence Labs），目前25人、在没有任何产品的情况下已获得1.03亿美元种子轮融资，投前估值35亿美元。谢赛宁认为了「硅谷已经完全被LLM催眠」，他的论文字典引数超过10万次，曾与杨立昆共同提出Diffusion Transformers。</description>
+    </item>
+    <item>
+      <title>[Org: Anthropic Talks] Why Anthropic Thinks AI Should Have Its Own Computer — Felix Rieseberg of Claude Cowork/Code</title>
+      <link>https://www.youtube.com/watch?v=ZpZ7lFoWaT8</link>
+      <guid isPermaLink="false">ZpZ7lFoWaT8</guid>
+      <pubDate>Tue, 17 Mar 2026 21:37:33 +0000</pubDate>
+      <author>Latent Space</author>
+      <description>&lt;img src="https://img.youtube.com/vi/ZpZ7lFoWaT8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Latent Space · 88 min&lt;br/&gt;&lt;br/&gt;从构建Electron到帮助发布Slack桌面应用，再到塑造Anthropic的Claude Cowork，Felix Rieseberg已在接口层工作多年。本期节目中，他深入解析Claude Cowork如何诞生于Anthropic的原型优先文化、为何执行成本突然变得足够低以至于团队可以「构建所有候选方案」、AI产品的真正前沿为何已不再是更好的聊天而是可信的任务执行。他还分享了Anthropic押注本地优先智能体工作流的原因、技能为何可能比大多数人想象的更重要，以及未来最困难的问题关于自主性、安全性、可移植性和知识工作形态的变化。</description>
+    </item>
+    <item>
+      <title>[Org: OpenAI Talks] Building AI for better healthcare — the OpenAI Podcast Ep. 14</title>
+      <link>https://www.youtube.com/watch?v=VAzryGwnJW8</link>
+      <guid isPermaLink="false">VAzryGwnJW8</guid>
+      <pubDate>Mon, 16 Mar 2026 17:00:00 +0000</pubDate>
+      <author>OpenAI</author>
+      <description>&lt;img src="https://img.youtube.com/vi/VAzryGwnJW8/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;OpenAI · 31 min&lt;br/&gt;&lt;br/&gt;OpenAI健康负责人Dr. Nate Gross与健康AI研究负责人Karan Singhal讨论AI如何帮助应对全球医疗系统面临的最大挑战。涵盖OpenAI如何与医生合作训练模型处理敏感健康问题，以及这一基础如何为患者、临床医生和医疗系统解锁新一代工具。</description>
+    </item>
+    <item>
+      <title>[Org: Google DeepMind Talks] Navigating the Future of AI with Logan Kilpatrick | Google Deepmind</title>
+      <link>https://www.youtube.com/watch?v=swXyvtrz_nM</link>
+      <guid isPermaLink="false">swXyvtrz_nM</guid>
+      <pubDate>Tue, 17 Mar 2026 14:58:14 +0000</pubDate>
+      <author>Rishab in Cloud</author>
+      <description>&lt;img src="https://img.youtube.com/vi/swXyvtrz_nM/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Rishab in Cloud · 45 min&lt;br/&gt;&lt;br/&gt;Logan Kilpatrick（Google DeepMind）与Rishab讨论AI开发格局的演变，聚焦从传统角色向AI团队更集成化职位的转变。探讨社区参与的重要性、最大化开发者自主权、以及Gemini 3.1发布的意义。讨论还涉及软件工程的未来、检索增强生成（RAG）的演进、AI工具对软件开发和开源贡献的影响。</description>
+    </item>
+    <item>
+      <title>[Org: Google DeepMind Talks] The AI Ultimatum: What Leaders Must Decide Now with Steve Brown</title>
+      <link>https://www.youtube.com/watch?v=gRdvbFL6jC4</link>
+      <guid isPermaLink="false">gRdvbFL6jC4</guid>
+      <pubDate>Wed, 18 Mar 2026 15:22:00 +0000</pubDate>
+      <author>Partnering Leadership</author>
+      <description>&lt;img src="https://img.youtube.com/vi/gRdvbFL6jC4/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Partnering Leadership · 51 min&lt;br/&gt;&lt;br/&gt;AI未来学家、前Intel和DeepMind高管Steve Brown阐述其著作《AI Ultimatum》的核心论点：AI不仅是另一种生产力工具或IT升级，而是代表着智能如何在组织内部创建、扩展和应用的根本性转变。Brown认为我们正在进入一个「智能时代」，其规模可与工业革命相比，但速度要快得多。随着智能成本趋近于零，组织将面临关于劳动力设计、价值创造、领导力身份和伦理责任的新战略选择。</description>
+    </item>
+    <item>
+      <title>[Org: Google DeepMind Talks] Why AI Will Force Leaders to Rethink Everything  with Dex Hunter-Torricke</title>
+      <link>https://www.youtube.com/watch?v=XjL5WUtQmts</link>
+      <guid isPermaLink="false">XjL5WUtQmts</guid>
+      <pubDate>Tue, 17 Mar 2026 14:46:35 +0000</pubDate>
+      <author>Tomorrow - The Future Forum Podcast</author>
+      <description>&lt;img src="https://img.youtube.com/vi/XjL5WUtQmts/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Tomorrow - The Future Forum Podcast · 39 min&lt;br/&gt;&lt;br/&gt;DeepMind前传播负责人Dex Hunter-Torricke与Future Forum主持人Oli Barrett探讨AI时代的关键抉择时刻：AI要么解锁前所未有的进步，要么引发就业、经济稳定和全球安全的重大混乱。话题涵盖：普遍基本收入、领导人责任、当前系统为何失效、grad job危机、全球经济再思考，以及为什么现在的领导者没有行动。</description>
+    </item>
+    <item>
+      <title>[Org: Google DeepMind Talks] Agent AI- What is Your Mission?</title>
+      <link>https://www.youtube.com/watch?v=ei1AhzVxFBc</link>
+      <guid isPermaLink="false">ei1AhzVxFBc</guid>
+      <pubDate>Mon, 16 Mar 2026 12:21:12 +0000</pubDate>
+      <author>The Human in the Loop</author>
+      <description>&lt;img src="https://img.youtube.com/vi/ei1AhzVxFBc/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The Human in the Loop · 37 min&lt;br/&gt;&lt;br/&gt;主持人Jane Wakefield从1950年图灵测试开始，回顾AI发展史直到2026年。当许多人已习惯AI助手处理日常任务，AI智能体开始代为执行操作，我们应如何进入机器智能的新时代？为什么人应始终在循环中？Google DeepMind研究VP Raia Hadsell与牛津大学AI基础教授Michael Wooldridge共同探讨AI智能体的安全与未来。</description>
     </item>
   </channel>
 </rss>
