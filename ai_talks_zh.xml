@@ -4,7 +4,54 @@
     <title>AI大咖讲座精选 (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>精选AI思想领袖的长篇访谈与演讲，由Claude筛选整理。</description>
-    <lastBuildDate>Fri, 20 Mar 2026 14:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 07:20:07 +0000</lastBuildDate>
+    <item>
+      <title>[Channel: Dwarkesh Patel] 陶哲轩——世界顶级数学家如何运用AI</title>
+      <link>https://www.youtube.com/watch?v=Q8Fkpi18QXU</link>
+      <guid isPermaLink="false">Q8Fkpi18QXU</guid>
+      <pubDate>Fri, 20 Mar 2026 16:29:48 +0000</pubDate>
+      <author>Dwarkesh Patel</author>
+      <description>&lt;img src="https://img.youtube.com/vi/Q8Fkpi18QXU/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dwarkesh Patel · 84 分钟&lt;br/&gt;&lt;br/&gt;节目从开普勒发现行星运动定律的过程开始，这个故事出人意料地充满智慧。
+
+人们常说AI将在科学发现领域取得飞速进展，因为AI拥有紧密的验证循环。但通过对太阳系形状发现历程的回溯可以看出，正确理论的验证循环往往长达数十年甚至上千年。
+
+在这段时间里，如今看来更优的理论常常实际上做出更差的预测（哥白尼的日心说模型实际上比托勒密的地心说模型更不准确）。而这些理论之所以能穿越这片「认识论地狱」，靠的是某种我们至今无法清晰表述、更无法编码进强化学习循环的判断力与启发式方法。
+
+时间戳：
+00:00 – 开普勒就像一个高温LLM
+00:11:44 – 如果AI生成的内容中涌现出新概念，我们如何察觉？
+00:26:10 – 演绎积累
+00:30:31 – 报告AI发现中的选择性偏差
+00:46:43 – AI让论文更丰富、更广泛，但不更深
+00:53:00 – 如果AI解决了问题，人类能否获得真正的理解？
+00:59:20 – 我们需要一种半形式化语言来描述科学家实际的交流方式
+01:09:48 – Terry如何利用他的时间
+01:17:05 – 人机融合将在很长时间内主导数学研究</description>
+    </item>
+    <item>
+      <title>[Org: Meta AI Talks] 真正的选举威胁：科技寡头与算法 | 乔恩·斯图尔特《每周秀》</title>
+      <link>https://www.youtube.com/watch?v=PQntN2mFrE4</link>
+      <guid isPermaLink="false">PQntN2mFrE4</guid>
+      <pubDate>Wed, 18 Mar 2026 18:06:10 +0000</pubDate>
+      <author>The Weekly Show with Jon Stewart</author>
+      <description>&lt;img src="https://img.youtube.com/vi/PQntN2mFrE4/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The Weekly Show with Jon Stewart · 75 分钟&lt;br/&gt;&lt;br/&gt;在参议院就SAVE America Act展开辩论、同时有关选民欺诈的无根据指控甚嚣尘上之际，乔恩·斯图尔特与乔治城大学研究教授Renée DiResta以及Platformer编辑Casey Newton共同探讨真正威胁选举的因素。他们深入调查算法如何被设计成推动用户走向平台所有者偏好的意识形态，分析驱动硅谷向右转的激励机制，并讨论共和党如何将虚假信息武器化以破坏选举信任、从而重写有利于己方的投票规则。
+
+时间戳：
+00:00 – 开场
+02:19 – Renée DiResta与Casey Newton加入
+04:27 – 病毒式谣言的运作机制
+06:40 – 算法与精英阶层
+08:43 – 选举诚信伙伴关系
+12:57 – 虚假信息的供需两端
+16:53 – 马斯克与X平台
+22:00 – 武器化小组委员会
+34:47 – 「Twitter文件」与政府施压
+46:40 – 科技寡头与经济激励机制
+51:37 – 言论自由与算法推送之争
+01:00:14 – 媒体领域的「慢食运动」
+01:03:00 – 对儿童和下一代的影响
+01:13:45 – 讨论梳理</description>
+    </item>
     <item>
       <title>[Jensen Huang] 摩根士丹利TMT大会2026 | 黄仁勋论AI、算力与新全球经济</title>
       <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>

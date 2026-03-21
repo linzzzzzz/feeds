@@ -4,7 +4,54 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Fri, 20 Mar 2026 14:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 07:20:07 +0000</lastBuildDate>
+    <item>
+      <title>[Channel: Dwarkesh Patel] Terence Tao – How the world’s top mathematician uses AI</title>
+      <link>https://www.youtube.com/watch?v=Q8Fkpi18QXU</link>
+      <guid isPermaLink="false">Q8Fkpi18QXU</guid>
+      <pubDate>Fri, 20 Mar 2026 16:29:48 +0000</pubDate>
+      <author>Dwarkesh Patel</author>
+      <description>&lt;img src="https://img.youtube.com/vi/Q8Fkpi18QXU/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Dwarkesh Patel · 84 min&lt;br/&gt;&lt;br/&gt;We begin the episode with the absolutely ingenious and surprising way in which Kepler discovered the laws of planetary motion.
+
+People sometimes say that AI will make especially fast progress at scientific discovery because of tight verification loops. But the story of how we discovered the shape of our solar system shows how the verification loop for correct ideas can be decades (or even millennia) long.
+
+During this time, what we know today as the better theory can often actually make worse predictions (Copernicus's model of circular orbits around the sun was actually less accurate than Ptolemy's geocentric model). And the reasons it survives this epistemic hell is some mixture of judgment and heuristics that we don't even understand well enough to actually articulate, much less codify into an RL loop.
+
+Timestamps:
+00:00 – Kepler was a high temperature LLM
+00:11:44 – How would we know if there's a new unifying concept within heaps of AI slop?
+00:26:10 – The deductive overhang
+00:30:31 – Selection bias in reported AI discoveries
+00:46:43 – AI makes papers richer and broader, but not deeper
+00:53:00 – If AI solves a problem, can humans get understanding out of it?
+00:59:20 – We need a semi-formal language for the way that scientists actually talk to each other
+01:09:48 – How Terry uses his time
+01:17:05 – Human-AI hybrids will dominate math for a lot longer</description>
+    </item>
+    <item>
+      <title>[Org: Meta AI Talks] The Real Election Threat: Tech Oligarchs &amp; Algorithms | The Weekly Show with Jon Stewart</title>
+      <link>https://www.youtube.com/watch?v=PQntN2mFrE4</link>
+      <guid isPermaLink="false">PQntN2mFrE4</guid>
+      <pubDate>Wed, 18 Mar 2026 18:06:10 +0000</pubDate>
+      <author>The Weekly Show with Jon Stewart</author>
+      <description>&lt;img src="https://img.youtube.com/vi/PQntN2mFrE4/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;The Weekly Show with Jon Stewart · 75 min&lt;br/&gt;&lt;br/&gt;As the Senate debates the SAVE America Act amid unfounded claims of voter fraud, Jon is joined by Georgetown Research Professor Renée DiResta and Platformer editor Casey Newton to examine what actually threatens our elections. They investigate how algorithms are engineered to push users toward platform owners' preferred ideologies, explore the incentives driving Silicon Valley's rightward shift, and discuss how Republicans have weaponized disinformation to undermine electoral trust and rewrite voting rules in their favor.
+
+Timestamps:
+00:00 – Intro
+02:19 – Renée DiResta and Casey Newton Join
+04:27 – The Mechanics of Viral Rumors
+06:40 – Algorithms and Elites
+08:43 – The Election Integrity Partnership
+12:57 – Supply and Demand of Disinformation
+16:53 – Elon Musk and X
+22:00 – The Weaponization Subcommittee
+34:47 – The "Twitter Files" and Government Pressure
+46:40 – Tech Oligarchs and Financial Incentives
+51:37 – Free Speech vs. Algorithmic Speech
+01:00:14 – The "Slow Food Movement" for Media
+01:03:00 – Impact on Children and Future Generations
+01:13:45 – Breaking Down the Discussion</description>
+    </item>
     <item>
       <title>[Jensen Huang] Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy</title>
       <link>https://www.youtube.com/watch?v=xv7UVAfyebk</link>
