@@ -4,7 +4,15 @@
     <title>AI大咖讲座精选 (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>精选AI思想领袖的长篇访谈与演讲，由Claude筛选整理。</description>
-    <lastBuildDate>Sun, 22 Mar 2026 02:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 09:29:09 +0000</lastBuildDate>
+    <item>
+      <title>[Jeff Dean] Jeff Dean 与 Bill Dally 对话：AI 硬件与系统Scaling的下一步</title>
+      <link>https://www.youtube.com/watch?v=g8BuAtM3fp4</link>
+      <guid isPermaLink="false">g8BuAtM3fp4</guid>
+      <pubDate>Fri, 20 Mar 2026 13:58:24 +0000</pubDate>
+      <author>Matthew Chen</author>
+      <description>&lt;img src="https://img.youtube.com/vi/g8BuAtM3fp4/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Matthew Chen · 59 分钟&lt;br/&gt;&lt;br/&gt;英伟达研究高级副总裁兼首席科学家 Bill Dally 与谷歌首席科学家 Jeff Dean（TPU 共同发明人、Gemini 联合技术负责人、大规模ML系统先驱）进行了一场60分钟深度对话。两位顶级AI系统专家探讨了硬件创新、系统Scaling与算法进步之间的关键交汇点，以及这些要素如何共同推动AI进入2026–2030年的智能体系统、超低延迟推理和高效计算Scaling时代。</description>
+    </item>
     <item>
       <title>[Org: Anthropic Talks] AI对工作意味着什么：增强还是自动化？</title>
       <link>https://www.youtube.com/watch?v=OvFI-V9Zaeo</link>

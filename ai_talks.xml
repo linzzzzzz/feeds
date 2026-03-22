@@ -4,7 +4,15 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Sun, 22 Mar 2026 02:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 09:29:09 +0000</lastBuildDate>
+    <item>
+      <title>[Jeff Dean] S82167 Advancing to AI's Next Frontier: Insights From Jeff Dean and Bill Dally</title>
+      <link>https://www.youtube.com/watch?v=g8BuAtM3fp4</link>
+      <guid isPermaLink="false">g8BuAtM3fp4</guid>
+      <pubDate>Fri, 20 Mar 2026 13:58:24 +0000</pubDate>
+      <author>Matthew Chen</author>
+      <description>&lt;img src="https://img.youtube.com/vi/g8BuAtM3fp4/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Matthew Chen · 59 min&lt;br/&gt;&lt;br/&gt;Bill Dally, Chief Scientist and SVP of Research at NVIDIA, engages in a 60-minute wide-ranging discussion with Google's Chief Scientist Jeff Dean — co-instigator of TPUs, overall Gemini co-tech lead, and pioneer in large-scale ML systems. The conversation explores the critical intersections of hardware innovation, systems scaling, and algorithmic advancement needed to propel AI into the 2026–2030 era of agentic systems, ultra-low-latency reasoning, and energy-efficient scaling.</description>
+    </item>
     <item>
       <title>[Org: Anthropic Talks] Augmentation or Automation: What AI Means for Work</title>
       <link>https://www.youtube.com/watch?v=OvFI-V9Zaeo</link>
