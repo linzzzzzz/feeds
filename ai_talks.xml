@@ -4,7 +4,39 @@
     <title>AI Thought Leader Talks (YouTube)</title>
     <link>https://www.youtube.com</link>
     <description>Original long-form talks and interviews with AI thought leaders, filtered by Claude.</description>
-    <lastBuildDate>Sun, 22 Mar 2026 09:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 08:34:33 +0000</lastBuildDate>
+    <item>
+      <title>[Dario Amodei] Anthropic CEO Dario Amodei談人工智慧未來與社會挑戰</title>
+      <link>https://www.youtube.com/watch?v=sg_FupZHUjA</link>
+      <guid isPermaLink="false">sg_FupZHUjA</guid>
+      <pubDate>Mon, 23 Mar 2026 07:32:03 +0000</pubDate>
+      <author>PP科技筆記 Podcast</author>
+      <description>&lt;img src="https://img.youtube.com/vi/sg_FupZHUjA/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;PP科技筆記 Podcast · 22 min&lt;br/&gt;&lt;br/&gt;2026年2月24日，Anthropic執行長Dario Amodei在印度班加羅爾接受專訪的重點整裡與精華回顧。作為領先AI研究者，Dario分享了AI如何像「被社會忽略的海嘯」般快速改變世界，探討AI對工作、思維與倫理深遠影響，以及Anthropic推動安全、負責任AI開發的理念。涵蓋主題包括：AI帶來的社會和經濟挑戰、批判性思維將成為未來人類最大的競爭力、大型語言模型如Claude引發的意識與身份議題、AI權力集中與企業責任的矛盾的衝突、印度在全球AI生態的關鍵角色、AI在生物技術帶來的創新機會。</description>
+    </item>
+    <item>
+      <title>[Geoffrey Hinton] The Godfather of AI: In Conversation with Professor Geoffrey Hinton</title>
+      <link>https://www.youtube.com/watch?v=9OQoIHrgPbs</link>
+      <guid isPermaLink="false">9OQoIHrgPbs</guid>
+      <pubDate>Tue, 24 Mar 2026 02:00:14 +0000</pubDate>
+      <author>RCIScience</author>
+      <description>&lt;img src="https://img.youtube.com/vi/9OQoIHrgPbs/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;RCIScience · 61 min&lt;br/&gt;&lt;br/&gt;Amber Mac採訪「AI教父」Geoffrey Hinton，就AI的承諾、風險與倫理問題進行爐邊對談。Hinton是現代人工智慧最重要的人物之一，幫助奠定了今日AI革命的基礎，並在2023年從Google離開以自由公開談論AI風險。涵蓋主題包括：被稱為「AI教父」的感受、為何移居加拿大、AI戰爭與倫理、Hinton對AI的預測回顧、醫療與教育中的AI、AI對就業市場的影響、什麼是AI及其運作原理、AI聊天機器人、監管與創新的關係、AI的環境影響、給年輕人的建議、矽谷對AGI的執迷、AI代理與人類協作、加拿大成為更強研究中心的條件、數位浮水印、人類最佳情境、認知衰退等話題。</description>
+    </item>
+    <item>
+      <title>[Channel: Lex Fridman] Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494</title>
+      <link>https://www.youtube.com/watch?v=vif8NQcjVf0</link>
+      <guid isPermaLink="false">vif8NQcjVf0</guid>
+      <pubDate>Mon, 23 Mar 2026 16:24:14 +0000</pubDate>
+      <author>Lex Fridman</author>
+      <description>&lt;img src="https://img.youtube.com/vi/vif8NQcjVf0/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Lex Fridman · 146 min&lt;br/&gt;&lt;br/&gt;Jensen Huang是NVIDIA聯合創始人兼CEO，全球最有價值公司的掌舵者，AI計算革命的引擎。本次訪談覆蓋：極端協作設計與機架規模工程；Jensen如何運營NVIDIA；AI規模定律；AI規模定律的最大障礙；供應鏈；內存；電源；Elon和Colossus；Jensen的工程與領導方法；中國；台積電與台灣；NVIDIA的護城河；太空AI數據中心；NVIDIA是否價值10萬億美元；壓力下的領導力；電子遊戲；AGI時間線；編程的未來；意識；死亡率。</description>
+    </item>
+    <item>
+      <title>[Org: OpenAI Talks] Inside OpenAI’s Streaming Backbone with Aravind Suresh | Ep. 24 | Confluent Developer Podcast</title>
+      <link>https://www.youtube.com/watch?v=JI6B6VD8asE</link>
+      <guid isPermaLink="false">JI6B6VD8asE</guid>
+      <pubDate>Mon, 23 Mar 2026 11:00:26 +0000</pubDate>
+      <author>Confluent Developer</author>
+      <description>&lt;img src="https://img.youtube.com/vi/JI6B6VD8asE/hqdefault.jpg" width="480" /&gt;&lt;br/&gt;Confluent Developer · 31 min&lt;br/&gt;&lt;br/&gt;Adi Polak採訪OpenAI的Aravind Suresh，討論他在分散式系統和即時流媒體領域的職業生涯以及將OpenAI脆弱的Kafka架構打造成可靠多區域流媒體骨幹的挑戰。</description>
+    </item>
     <item>
       <title>[Jeff Dean] S82167 Advancing to AI's Next Frontier: Insights From Jeff Dean and Bill Dally</title>
       <link>https://www.youtube.com/watch?v=g8BuAtM3fp4</link>
